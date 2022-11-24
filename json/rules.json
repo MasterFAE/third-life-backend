@@ -1,0 +1,129 @@
+{
+  "RULES": [
+    {
+      "id": 0,
+      "title": "1 - ANA KURALLAR",
+      "rulelist": [
+        "Her şeyden önce bunun bir oyun olduğunu ve “eğlenmek” için oynadığınızı unutmayın. Karşınızdaki insanın da en az sizin kadar eğlenmeye hakkı var. Kininizi, öfkenizi, dramanızı dışarıda bırakın.",
+        "Ne olursa olsun rolden çıkmayın. Karakterinizi karakter özelliklerin nasıl ise ona göre oynayın. Bir polisin rolünün tutuklamak, bir soyguncunun rolünün çalmak ve bir katilin rolünün öldürmek olduğunu unutmayın. Kimi zaman birinin rolü sizin rolünüzü engelleyebilir. Rolleri ve hikâye ilerleyişlerini belli bir yere çekmek için zorlamayın, akışına bırakın. Daima önceliğiniz rol yapmak olsun. Eğer karakterinizin akışını yarattığınız karakter hikâyesine göre ilerletmezseniz. Sadece Grind/Shooter tadında ilerleyip roleplay kısmına önem vermiyorsanız “non-rp” gerekçesi ile sunucudan kalıcı olarak uzaklaştırılırsınız.",
+        "Oyun içerisinde karşılıklı yapılan roller esnasında karşınızdaki kişinin rahatsız olabileceği ağır dozda küfür, ırkçılık, ayrımcılık, belli etnik, dini, fanatik grupları veya toplulukları gücendirebilecek ithamlar ve sözler, cinsiyetçilik ve body shaming içeren tüm sözler ve söylemler yasaktır. Karakterinizin yapısı ne olursa olsun, kişileri rencide edici sözler ve söylemlerden kaçınmanız gerekiyor. Bir kişinin oyun içi küfürden rahatsız olduğunu belirtmesi üzerine hala devam etmeniz kalıcı olarak uzaklaştırılmanıza dahi sebep olabilir, dikkatli olun.",
+        "Sunucuda açıklar ve hatalar ile karşılaşmanız oldukça normal. Bu hatalar ve açıklar ile karşılaştığınız zaman ilk işiniz site üzerinden ticket açarak yönetime durum hakkında bilgi vermeniz olmalı. Bir açık veya hata keşfettiğinizde bunu bildirmez veya bildirmenize rağmen o açığı kullanmanız durumu, sunucudan kesin olarak kalıcı uzaklaştırılmanıza sebep olur. Sunucuda açık aramaya çalışmayın, bunu görev edinmeyin. Bir açıktan yararlandığını düşündüğünüz oyuncuları şikayet etmenin de sizin sorumluluğunuzda olduğunu unutmayın.",
+        "Sunucuda rol içerisinde olduğunuz durumlarda yaşanan roller ile ilgili 3. parti yazılı veya sesli iletişim kullanmanız yasaktır. Bug bildirim ve OOC çözülmesi gereken problemler yetkililer veya adminler ile olduğu sürece bu kategoriye dahil değildir. Eğer ki probleminizin IC çözülemeyecek olduğunu düşünüyorsanız site üzerinden ticket açarak yetkililere bildirmenizdir. Özelden birine yazmanız veya farklı bir iletişim yolu kullanmanız 1-5’in ihlali olarak kabul edilecektir.",
+        "Envanterinizde veya herhangi bir yerde olan eşyayı do veya me ile üzerimde değildir, envanterinizde veya herhangi bir yerde olmayan eşyayı do veya me ile üzerimdedir diyerek role giremezsiniz. Eşya üzerinizdeyse üzerinizde, değilse değildir. Olmayan bir şey varmış veya olan bir şey yokmuş gibi yapamazsınız.",
+        "‘’META’’ Rol içerisinde öğrendiğiniz veya duyurularda size “IC” (karakter içi) bilgi olarak verilmemiş herhangi bir bilgiyi kullanırsanız bu META’dır ve sunucudan kalıcı olarak uzaklaştırılmanıza sebep olur. Oyundayken yazılı veya sesli bir iletişim programını aktif olarak kullanma eylemi de META kuralı kapsamındadır.",
+        "Senaryolu roller yapmanız yasaktır. Karakter hikayenize göre belirlediğiniz bir rota olabilir veya oyun içerisinde yaşadığınız olaylara göre hikayenizin akışını değiştirebilirsiniz fakat daha önceden planladığınız bir role girmeniz yasaktır. “Örneğin bir soygun yapacaksanız, bu soygunun planını da oyun içerisinde yapmalı ve ekip arkadaşlarınıza da aynı şekilde planınızı oyun içinde aktarmalısınız.",
+        "Aim assist, screen cross, fps/pvp grafik paketleri, size üstünlük sağlayabilecek ses paketleri ve benzeri size yardımcı olacak donanım ve yazılımların tümü yasaktır. Aynı şekilde ayarlarınızı gölgeleri, çalıları kapatacak şekilde düzenleyemezsiniz. Nişan almanıza yardımcı mouse yazılımları da buna dahildir.",
+        "Ses değiştirme programları yalnızca kişinin rolüne uygun olacak şekilde serbesttir.(Yetkili izni dahilinde!)",
+        "Karakteri oynayan kişi aksini belirtene kadar kadın rolü yapan erkek oyuncular kadın, erkek rolü yapan kadın oyuncular erkek olarak kabul edilir. Onları aşağılayamaz, sınıflandıramaz, yaftalayamazsınız",
+        "Karşınızdaki oyuncu rolsel bir hata yapsa dahi rolünüzü bozmayın ve ona tepki vermeyin. Kural hatası içeren bir rolden dolayı meydana gelen zarar eğer videolu kanıtınız var ise tarafımızdan tamamen karşılanır. Rolsel hata ve şikayet durumları için  site üzerinden ticket açınız. Sunucunun işleyişini ve düzenini sağlamanın sunucu adminleri ve sunucu yetkililerinin sorumluluğunda olduğunu unutmayın. Kendinizi yasama, yargı, yürütme olarak görmeyin ve ceza kesmeye kalkmayın. Sunucuda kimsenin rolünü sorgulayamaz, bu sorguyu ic veya ooc yapamazsınız.",
+        "Karakterleriniz arası hiçbir eşya, para, bilgi transferi yapamazsınız.",
+        "Başka sunucularda gördüğünüz karakterleri veya benzerlerini sunucuda oynayamazsınız. Karakterlerinizin özgün olması ve eğer başka bir karakterden esinlenilmiş olsa bile bunun minimum dozda olması gerekmektedir.",
+        "Hile, bug abuse, script abuse gibi durumların yaptırımı çok ağır olur. Bir scriptin size izin verdiği burada yazmayan bir kural ihlali yapmanız durumunda sunucudan kalıcı olarak uzaklaştırılırsınız. Rol esnasındayken daima “shadowplay, obs vb” uygulamalarla girdiğiniz rolleri sesleri açık bir şekilde kayıt altında tutun (sisteminiz destekliyorsa). Bir oyuncu sizi bir sebepten şikayet ettiğinde sizden kendi “ekran kaydınızı” isteyeceğiz. Kendinizi aklamak sizin sorumluluğunuzda. Yetkililer sizden en fazla 48 saat önceye kadar olan kayıtları isteyebilir. Geri kalan kısmını silebilirsiniz. Oluşan şikayetler ve sorunlar sebebiyle gerçekleşen eşya kayıpları yalnızca videolu açık ve anlaşılır bir kanıtınız olması durumunda geri verilir. Eğer kanıtınız yok ise eşya geri verilmeyecektir.",
+        "Polis ve EMS’e ait hiç bir kıyafeti giyemezsiniz. Bunu şehirdeki mağazadan aldım, vurduğum polisten çaldım gibi rollere girmeyin. Vurduğunuz/soyduğunuz polis ve ems’lerin kıyafetlerini çalamazsınız.",
+        "Sunucuda var olan açtığınız ve sildiğiniz her karakterinizin bir yetkili tarafından onaylanmış olması gerekmektedir. Eğer bir yetkili size izin vermeden karakter açar veya silerseniz bu kuralın ihlali olarak kabul edilir"
+      ]
+    },
+    {
+      "id": 1,
+      "title": "2 - YAYIN/VIDEO KURALLARI",
+      "rulelist": [
+        "Eğer canlı yayınlar yapıyorsanız “Yayın ve Video Kuralları” ana maddesi altında sıralanmış olan tüm kurallara tamamen uymak zorundasınız.",
+        "Yönlendirme olarak kabul edilebilecek davranışlar veya kitleleri harekete geçirebilecek olumsuz davranışlarda bulunmak yasaktır. Sunucu veya sunucuda yer alan oyuncular ile ilgili drama çıkmasına sebep olabilecek tüm söylemler yasaktır.",
+        "Yayınlarda canlı sohbet üzerinden başka oyuncular veya o an içinde bulunduğunuz durum ile ilgili sizin gözden kaçırdığınız fakat yayınınızın izleyicileri sayesinde edinilen her bilgi META olarak değerlendirilecektir. Karakterinizin halihazırda zaten biliyor olacağı “acıktım, susadım” benzeri bilgiler buna dahil değildir."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "3 - LEGAL KURALLAR",
+      "rulelist": [
+        "Telefonunuzda yer alan sarı sayfalar bölümüne saat başına aynı kategoride yalnızca 1 adet ilan verebilirsiniz.",
+        "Oyun içerisinde etkinlikler düzenleyebilir ve buluşmalar yapabilirsiniz. Buluşma veya etkinlik yapmak istiyorsanız bir yerden izin almanıza gerek yok."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "4 - İLLEGAL KURAL VE SİSTEMLERİ",
+      "rulelist": [
+        "Hapse düşmek üzere olan kişileri kaçırabilirsiniz. Polis departmanı safe zone’dur fakat araç oradan çıktıktan sonra hapishaneye varana kadar geçen süreçte hapishane konvoyuna saldırı düzenleyebilir, yolunu kesebilirsiniz. Hapishaneye nakledilen kişiler kelepçeli ise çözmek için anahtar bulmak durumundasınız. (O an sırtlayıp götürebilirsiniz) Mahkumları taşıyan araç hapishane kapılarına ulaştığı anda kaçırma şansınız ve rol sona ermiştir.",
+        "İllegal olaylarda hiçbir şekilde motor, bisiklet ve benzeri araçları kullanamazsınız.",
+        "İllegal sistem kademeli olarak Rütbe Sistemi gibi çalışır. 6 Seviyeye ulaşan bir illegal tablet üzerinden 3 ana konuda seçim yapabilir (Ekip sayısı Maksimum 8 Kişi olabilir).Uyuşturucu Ticareti // Silah Tüccarı // Hırsızlık, Kadın Ticareti Ve Araç Parçalama. Bu 3 başlık içinde ortak olan tek konu SERMAYE GEREKSİNİMİDİR.",
+        "Uyuşturucu Tüccarını seçen bir illegale malikâne, zırhlı araç ve uyuşturucu üretim merkezi verilir. Bu kişi daha sonra sermaye arttırarak yeni uyuşturucular üretebilir, ağını geliştirip pasif gelir elde edebilir. Yanında olan ekibine belli bir miktar maaş ödemesi yapmak zorundadır. Kişinin kontrolünde olan durumlar: NPC satış, Hızlı koşma, güçlenme, kafa yapma gibi birçok tür uyuşturucunun üretimi ve satışı. Meth gibi ürünlerin üretim yerlerinin kontrolü.",
+        "Silah tüccarı seçen bir illegal malikâne, zırhlı araç ve silah üretim merkezi verilir. Sermaye arttırarak yeni silahla üretebilir, ağını geliştirerek pasif gelir elde edebilir. Kişinin kontrolünde olan durumlar: Elindeki silahları Black markete satar. (Silah satma durumu sınırsız değildir.), Black market her hafta başında belli bir oranda sipariş geçebilir. Bunun haricinde direk oyuncuya da satış yapabilir. Tabi ki polis riskini göze alıyor ise.",
+        "Hırsızlık, Kadın Ticareti Ve Araç Parçalama seçen malikâne, zırhlı araç ve unicorn verilir. Kişinin kontrolünde olan durumlar: Sokaktaki kadın ticaretinden toplanan para kişiye gelir, 1.Seviye illegallerin soygunda çıkardıkları ürünleri satın alır ve limanı kullanarak yurt dışına satar, Araba hırsızlığında çalıntı araçları alır ve illegal mekanik üzerinden parçalar, Sermaye konularak CLUB, illegal mekanik gibi yerleri açar ve gelişmeye devam edebilir. Pasif gelir elde etme durumu bu konuda geçerli değildir."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "5 - SOYGUN KURALLARI",
+      "rulelist": [
+        "Soygunlara nasıl başlayacağınızı veya devam eden işlemler sırasında bir sonraki adımı bulamazsınız bu script çalışmadığı için değil nasıl yapacağınızı keşfedemediğiniz içindir.",
+        "Hapse götürülürken nakliye aracından indi iseniz veya bir şekilde hastane, karakol gibi güvenli bölgelerde gözlem altındayken kaçıyorsanız firari sayılırsınız. Firari olduğunuz durumlarda polis sizi tekrar alıkoymak için tüm gücünü kullanabilir. Firarilere karşı polisin ateş etme izni her zaman vardır.",
+        "Eczane, Araba Hırsızlığı, Market, Teknoloji Market ve Ev Soygunu 1.SEVİYE illegal gurubunda yer almaktadır ve tek bir(1) kişi yapabilir ikinci bir oyuncunun dahil olması yasaktır. İlk 15DK polis biriminden sadece bir ekip olacak daha sonrasında 15-25DK arasında polis birimlerinin isteğine göre ikinci bir ekip katılabilir. Eğer 25DK tamamlanırsa PD helikopter kaldırma yetkisine sahiptir.",
+        "Çalıntı Ürun teslimatları 2.SEVİYE illegal gurubunda yer almaktadır ve tek bir(1) kişi yapabilir ikinci bir oyuncunun dahil olması yasaktır. İlk 15DK polis biriminden sadece bir ekip olacak daha sonrasında 15-25DK arasında polis birimlerinin isteğine göre ikinci bir ekip katılabilir. Eğer 25DK tamamlanırsa PD helikopter kaldırma yetkisine sahiptir.",
+        "Banka Aracı, Vezne ve Med Lab soygunu 3.SEVİYE illegal gurubunda yer almaktadır. İllegal tablet üzerinden bulacağınız 2 kişi ile birlikte soygunu gerçekleştirebilirsiniz. Minimum 3 maksimum 4 kişi olabilirsiniz. İlk 15DK polis biriminden üç ekip olacak daha sonrasında 15-25DK arasında PD helikopter kaldırma yetkisine sahiptir.",
+        "Kuyumcu Soygunu 4.SEVİYE illegal grubunda yer almaktadır. 4. seviyeye ulaşan illegal biri oluşumunu kurabilir. Oluşumlar minimum 4 maksimum 6 kişi ile sınırlıdır. İlk 10DK polis biriminden 4 ekip olacaktır ve daha sonrasında helikopter kaldırma iznine sahiptir.",
+        "Merkez Bankası soygunu 5.SEVİYE illegal gurubunda yer almaktadır. Ekip haricinde 1 adet bombacı ve 1 adet hacker kiralamanız gerekmektedir. Soygun süreci hackerın  sistemi kapatması ve bombacının elektriği kesmesi ile başlar. İçerde bulunan 4 adet NPC güvenliği etkisiz hale getirmeniz, kasayı açmanız ve dışarı çıkmanız için 5 dakika 17 saniye zaman verilir. Bu zamanda işlemi tamamlayamazsanız para çantalarındaki para kullanılamaz hale gelir ve polis bankanın içine girebilir. İşlemi tamamlamanız durumunda kaçış başlar. Polis birimleri 4 ekip ve helikopter ile müdahale eder.",
+        "Kazanç eşit paydaya bölünmelidir. Bölünmediği takdirde illegal tablet üzerinden yapılacak YÜKSEK ŞURA çağrısı sonucu düzeni bozan illegallerin sistemden men kararı çıkarak bütün illegal oyunculara tablet üzerinden başlarına ödül konulduğuna dair mesaj geçilecektir. Ödül konulmuş bir illegalin ölümü sonucunda karakteri force cklanır. Tabi ki yapacağınız rolde üzerinize saldıran illegalleri sistemsel olarak öldürürseniz, uyandıklarında bu ödül yarışında men edilmiş olacaklar ve siz bütün üzerinize gelen ödül avcılarını yok etmeniz durumunda yüksek şura kendi inisiyatifinde size CK atabilir ya da sizin illegal otoritedeki yerinizi yükseltebilir."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "6 - ÇETE/EKİP SİSTEMİ",
+      "rulelist": [
+        "Çete açmak veya oluşumuna girmek için gelen bir ekip öncelikle oyunda hangi çeteyi istiyor ise o bölgeye gidip bir ev kiralar. O bölgede bulunan görev npc’sinden görevler alır ve çete için bazı illegal olayları yerine getirir. Her görevin sonunda respect seviyesi yükselir. 950 Puana ulaşan respect seviyeli bir çete üyesine son görevi yüksek şuradan Bay X verir. Görevi tamamlaması durumunda bulunduğu çetenin OG’si olur ve yanına ekibini alabilir. Görevleri ekibiyle yapabilir. Çetesini oluşturmuş OG her 30 günde bir 1 adet respect görevi yapmalıdır. Yapmaması durumunda respect seviyesi düşeceği için çete içi isyanlar başlayabilir.(Bu durum mahallenizde bulunan NPC’lerin agresifleşmesi ve size düşman olması durumudur)",
+        "Çeteler maksimum 8 kişi olabilir. Çetesi oluşmuş bir OG’ye 4 adet çete aracı mahallede bir ev ve silah tamiri opsiyonu açılır. Çeteler 6.seviye illegallerin altında değildir (!!!) onlarla iş yaparlar ancak bir çatışma durumunda çetelerde onlarla savaşabilir.",
+        "Ekiplerin birbirleri ile ittifak kurması yasaktır."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "7 - SAVAŞ VE KAZANÇ KURALLARI",
+      "rulelist": [
+        "Savaşlar eşit kişi sayısına göre yapılmaz anlaşmalı değildir. Bir grup bir gruba savaş başlatması durumunda illegal tablet üzerinden bunu yüksek şuraya bildirir ve 3 kez sistemsel olarak ölen ekip savaşı kaybetmiş sayılır. Savaşı kazanan ekibin anlık olarak envanterinde bulunan illegal eşyaların değeri kadar nakit kaybeden ekip tarafından kazanan ekibe ödenir. Savaş içerisinde şehir merkezlerinde gireceğiniz aksiyonların bedeli ağır olacaktır."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "8 - HACKER VE BOMBACI",
+      "rulelist": [
+        "3 Seviye illegal olmanız durumunda yan kol olarak bombacılığı ve hackerı seçebilirsiniz. Sınırlı olarak bu seçenek bulunacaktır. Hacker olan biri kripto piyasaları elektrik kesme banka hesabı çalma bilgilere ulaşma POLİS ve EMS telsizine girmek gibi birçok spesifik olayı yönetirken bombacı olan biri 4 tür bomba üretebilecek ve bunları Black markette satışa sunabilecektir. Bunun haricinde 2 iş kolu içinde merkez bankası soygunda kiralama durumu olduğundan tablet üzerinden kişi bilgisi paylaşımı olmaksızın Bay X yolu ile yüksek şuradan bedeli karşılığında iş yapılmaktadır. Yakalanan hacker veya bombacı direk olarak force cklanır."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "9 - POLİS KURALLARI",
+      "rulelist": [
+        "Polisler ceza kanunu ve yasaya uymak zorundadır yasadışı kişilere çalışan bir polis olamaz. Trafik kuralları da buna dâhildir. Yalnızca kırmızı ışıklarda beklemek durumunda değildirler. Rolsel olarak gerekmedikçe (bir yere acele yetişmek) trafik kurallarını ihlal edemezler. Cezai işlemlerde yalnızca “iyi niyet” veya benzeri durumlardan cezai indirime gidebilirler bunun dışında indirim yapamazlar. Polisin yalnızca izin verilen cezalardan rüşvet alabilir. Var olan bir suçu göz ardı etmesi yasaktır.",
+        "Polis işe girdikten sonra UTC “1 ay” boyunca mesleğe devam etmek zorundadır. ",
+        "İstifa eden polis, polis karakterini silmek zorundadır.",
+        "Olaylar sırasında polislerin yaptığı davranışlar karşısında pozitif prim veya rütbe değişimi söz konusu olamaz. Rütbe atlama OOC’dir. Terminatör olmanız sizi üst rütbe değil uzaklaştırılmış oyuncu yapar.",
+        "Polis hariç hiç bir oyuncu polis eşyalarını bir yerden bir yere taşıma amacı haricinde bir aracın bagajına ve torpidosuna koyamaz. Polis eşyalarını hiç bir şekilde “depo” da tutamazsınız. (Parayla satın alınan)"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "10 - EMS KURALLARI",
+      "rulelist": [
+        "Hastane güvenli bölgedir ve hastane içinde özellikle doktorlara karşı illegal rollere girilemez.",
+        "Doktora başvuran kişiler sadece ağrıyan, kanayan veya şişlik olan bölgenin bilgisini verebilir, rolü force’layarak yönlendiremez.",
+        "Taburcu süresine sadece doktorlar karar verebilir.",
+        "Hastane içerisinde ısrarla (uyarı alınması sonrasında) küfür ve hakaret etmek yasaktır. Fail-RP kapsamında değerlendirilir.",
+        "Doktorlar karşısındaki kişilerin davranışına göre hasta reddetme hakkına sahiptir. Bu tip durumlarda IC’de şikayetin önü açıktır.",
+        "Herhangi bir kırık veya derin yara rolünde; bir yer alçıya alınmış/dikilmiş/işlem uygulanmış ise doktorun  belirlediği süre boyunca bunun rolünün yapılması zorunludur. (Bu süreç kurallara göre işlemektedir. (bkz. yaralı rolü)) (Süreç sonunda alçı çıkarttırma/dikiş aldırma rolü yapılmalıdır.)"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "11 - ME / DO KURALLARI",
+      "rulelist": [
+        "Me komutu bizim oyunda fiziksel olarak gösteremediğimiz fakat karşıdaki kişiye yaptığımız şeyi belirtme durumudur.",
+        "/me ile kesinlikle durum, düşünce, his ve duygu bildiremeyiz.",
+        "Do komutu rol gidişatını ve akışını etkileyen en önemli terimdir. Bir rol esnasında karşıdaki oyuncuya rol paslamamızı rolün çeşitlenip değişmesini etkileyebilir bu yüzden /do kullanırken kesinlikle yalan veya yanlış feedback verilemez.",
+        "/do ile düşünce, his ve duygu bildiremeyiz sadece bunu görsel olarak ifade edebiliriz. /do korkmuştur değil de /do korktuğu yüzünden anlaşılabilir. Do ile yalan söyleyemez, olmayan bir şeyi varmış gibi gösteremezsiniz.",
+        "/do kameralara gözükmüş müdür? diye bir soru geldiğinde eğer gerçekten o esnada oradaysak /do evet dememiz gerek.",
+        "/do hastanın nesi vardır? diye bir soru geldiğinde yüksekten düştüysek /do bacağı kırılmıştır gibi bir feedback vermeliyiz.",
+        "Kurşun yemiş olmasına rağmen /do açlıktan bayılmıştır gibi yanlış geri dönüşler verenler hakkında uyarı ve uzaklaştırma cezaları uygulanacaktır."
+      ]
+    }
+  ]
+}

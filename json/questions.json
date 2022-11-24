@@ -1,0 +1,3165 @@
+{
+  "QUESTIONS": [
+    {
+      "id": 1,
+      "type": "single-line",
+      "question": "Güzel bir uykunun ardından yeni bir gün için harekete geçtiniz ve ellerinizi yüzünüzü yıkadınız. Saate baktığınız da acele etmezseniz işe geç kalacağınızı fark ettiniz. Apar topar giyinip masada geceden kalmış bir sandviçi ağzınıza atıp, hızlıca yudumlarken anahtarlarınızı alıp hızlıca dışarı çıktınız. Aracınıza bindiniz ve işe doğru yol aldınız. Saatlerce yoğun bir işte çalıştıktan sonra işten çıktınız ve tekrar aracınıza bindiniz. Anahtarı kontağa yavaşça sokup çevirdiniz ve aracı çalıştırdıktan sonra güneşin batışında sakin bir yolculuk geçiriyorsunuz. Belli bir yol kat ettikten sonra yolda bir giysi dükkânının kenarında otostop çeken bir siyahi olduğunu gördünüz. Kişiyi almak için yavaşladınız ve durdunuz. Kişi araca bindi ve isminin Jayce olduğunu söyledi. Kişi ile tanıştınız ve sizin gideceğiniz yol ile aynı yolu tarif etti. Sohbet ederek yola devam ediyorsunuz. Yolun ilerleyen kısmında çevirme olduğunu fark ettiniz ve çevirmeye girmek için yavaşladığınızda polis memurları sizi durdurdu. Yanınızdaki Jayce isimli kişi aceleci bir tavır ile araçtan inerek polislerin yanına koştu ve sizin kişiyi soyduğunuzu ve kaçırdığınızı söyledi. Bunun üzerine polisler size silah doğrultarak araçtan indirdi, üstünüzü ve aracınızı aradı. Ardından sizi kelepçeledi ve polis aracına doğru haklarınızı okuyarak devam ediyor ve sizi departmana götürdükten sonra hücreye bırakıp beklemenizi söylüyorlar.(Devamında rolü nasıl sürdürürdünüz ?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Her şeyden önce sakin olmam lazım. Haklıyken haksız yere düşmemem gerek. Öncelikle sakin olurum ve sorgumu alacak olan memuru beklerim. İlk olarak bana iftira atan şahsı tanımadığımı gitmek istediği yere kadar bırakabileceğimi söyledim ve aracıma bindi. Sorgu sırasında neden bu şekilde yaka paça alındığımı, izinsiz bir şekilde aracımın arandığını ve bir adet avukat istediğimi söylerim. Muhtemel iftiranın asılsız olduğu ortaya çıkınca da departmanda ki memurları dava edeceğimi ve iftira atan şahsı tutuklatacağımı söylerim. Rol sonunda ticket açarak rol hakkında yönetimi bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "Sakin olmam lazım çünkü haklıyken haksız yere düşmemem gerek. Bana iftira atan şahsın buraya gelmesini isterim. Polislerden önce ben konuşmam gerektiğini belirtim. Daha fazla zorluk çıkararak ortalığı karıştırır ve polislere rol paslamaya çalışırım. Önemli olan iftira atılması değil pasladığımız rollerdir."
+        },
+        {
+          "id": 2,
+          "text": "Önemli olan sakin tavrımızı korumaktır. Sonuç olarak rol yapıyoruz ve kişilerin rol paslama mantığı farklı olabilir. Departmanda sorgumun alınmasını beklerim. Şahsı tanımadığımı bırakmak istediği yere kadar bırakabileceğimi söylediğimi ve bir anda yanına koştuğunu belirtirim. Muhtemel iftiranın asılsız olduğu anlaşılınca serbest bırakacaklar. Devamında kişiyi illegal olarak tanıdığım ve güvendiğim kişilere söylerim. İftira atan kişiyi kaçırmalarını ve neden böyle bir şey yaptığını sormalarını isterim. Rol bitiminde kişiyi özelden yazarak rol için teşekkür ederim."
+        },
+        {
+          "id": 3,
+          "text": "Kişiyi tanımadığımı ve sorgumun alınmasını isterim. Sorgumu alan memura ‘’Bu aptalca şeyi neden yaptı ve siz neden sorgulamadınız’’ gibi sorular sorar ve rol hakkında OOC ‘ye çıkmadan nelere döndüğünü anlamaya çalışırım. Muhtemel iftiranın asılsız olduğu anlaşılınca serbest bırakacaklar ve serbest kaldığımda kişiyi bulup maskeli ve çalmış olduğum bir araçla kişi kaçırırım. Neden böyle bir şey yaptığını sorardım. Rol sonunda ticket açarak rol hakkında yönetimi bilgilendiririm."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 2,
+      "type": "single-line",
+      "question": "Güzel bir sabah kahvaltısının ardından spor yapıp, yürümek için dışarı çıktınız ve orta tempoda yürümeye başladınız. Yolda bir süre sonra bir markete su almak için girmeye karar verdiniz. Markete girdiniz ama kasiyer veya herhangi birini görememektesiniz. 'Kimse var mı?' 'Bakar mısınız?' tarzında sorular ile marketin arka tarafına seslendiniz. Tam arkanızı döndünüz ve marketten çıkmak için yöneldiğiniz anda ensenize bir silah dayandığını hissettiniz. 'Otur!' 'Ellerini arkada birleştir' tarzında söyleyişler ile rehine alındığınızı anladınız. Siyah giysili ve maskeli 2 şahıs marketi soyuyor. (Devamında rolü nasıl sürdürürdünüz ?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Silah enseme dayanmış bir şekilde durmakta eğer hissettiğim kadar yakınsa rol paslamaya çalışırım. Önce /me Silahı hızlı bir şekilde kavramaya çalışır emote kullanır sonra /do Silahı aldım mı? emote kullanarak karşılık vermesini beklerim. Eğer başarısız olduysam sakin olmalarını ister ve soygun bitimine kadar beklerim."
+        },
+        {
+          "id": 1,
+          "text": "Cebimde bıçak veya belimde silah varsa çıkartmaya çalışırım ve silahını düşürmeyi denerim. Etkisiz hale getirebilmişsem marketteki parayı da alıp kameraları etkisiz hale getiririm. Polislere rol paslamak için de birinin gelip arkamdaki kişiyi vurduğunu ve parasını alıp kaçtığını söylerim. Bu sayede polislere rol paslamış olurum."
+        },
+        {
+          "id": 2,
+          "text": "Öncelikle sakin olmalarını isterim sonuç olarak hayatım söz konusu yapacağım en ufak hareket karakterimin ölmesiyle sonuçlanır. O anlı heyecanımı ne kadar bastırabilirim bilmiyorum fakat elimden geldiğince yerde kalır ve kapıya yakın dururum. Soyguncunun arkasını dönmesiyle anlık adrenalinle kendimi dışarıya atar ve suçlunun yakalanmasını sağlarım."
+        },
+        {
+          "id": 3,
+          "text": "Kafama silah dayanmış bir biçimde ve soyguncunun nasıl biri olduğuna dair fikrimde yok. Ani hareketler de bulunmadan dediklerini yaparım çünkü hayatım söz konusu. Heyecanıma yenik düşmeden sakin olur ve soyguncunun dediklerini uygularım. Soygun bitiminde polislerin talimatına uyar ve suçluların uzaklaşmasını beklerim."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 3,
+      "type": "single-line",
+      "question": "Oyunda bir oyuncuyu yaraladınız. Yattığı yerden OOC olarak hata yaptığınızı, bunu yapmamanız gerektiğini ve doğrusunu size sakince sinirli olmayan bir şekilde anlatıyor ve gerçekten yapmış olduğunuz rol hatalı. Tepkiniz, sonraki davranışlarınız ne olurdu? Kişiye ne söylerdiniz?",
+      "options": [
+        {
+          "id": 0,
+          "text": "O anda şok anında olduğunu düşünür 'Birader iyi misin şoka girdin galiba dayan lütfen EMS birimlerine haber ediyorum' gibi bir söylemde bulunur ardından EMS birimleriyle hastaneye gider durum hakkında bilgileri verir kişinin şoka girmiş olabileceğini söylerim. Rol sonunda elimde bir kayıt varsa ticket açarak rol hakkında yetkilileri bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "Şoka girdiğini düşünür ‘’Yaralısın yorma kendini EMS birimlerine haber ettim. Birazdan burada olurlar lütfen dayan’’ gibi bir söylemde bulunur ve EMS birimleriyle hastaneye giderek kişi hakkında bilgileri verirdim. Rol sonunda kişinin discord adresini bulup rol hakkında konuşurdum."
+        },
+        {
+          "id": 2,
+          "text": "Önce kişiyi anlamamış gibi bir rol yapmaya çalışırdım ki söylemlerinden uzaklaşsın. Eğer hala devam ediyorsa ‘’Birader bu konu burada konuşulacak bir şey değil. Her şey bitsin konuşuruz tamam mı uzatmayalım’ ’derdim. Rol sonunda ticket açarak yönetimi bilgilendirirdim."
+        },
+        {
+          "id": 3,
+          "text": "Ne dediğini anlamamış gibi yapardım eğer devam ediyorsa’’ OOC olarak konuşmak doğru değil. Rol sonunda discord üzerinden konuşalım yanlış yapıyorsun’’ derdim. Rol bitiminde discord üzerinden konuşup işi tatlıya bağlardım."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 4,
+      "type": "single-line",
+      "question": "Sunucuda gecenin sonunda rolünüz sona ermiş dinlenme kısmına geçmişken bir arkadaşınız discord üzerinden var olan bir şeyle ilgili fikrinizi istiyor ve '-Yarın şu rolü bu şekilde yapsak iyi olmaz mı?' diyerek size soruyor. Ona vereceğiniz cevap ne olurdu?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Öncelikle söylediğini dinlerim ve ardından cevap olarak ‘’Şuan buna cevap vermem rol açından iyi olmaz. En iyisi rolde karşılaştığımız zaman bu sorunu IC olarak yansıt ki rol açısından hata olmasın aksi takdirde rol hatası yapmış oluruz’’ gibi bir söylemde bulunurum."
+        },
+        {
+          "id": 1,
+          "text": "İlk olarak söylediklerini dikkatli bir biçimde dinlerim ve cevap olarak ‘’Bu konuştuğumuzu rolde de dökelim konuşmuş gibi yapalım. Uygulamamız daha rahat olur’’ derdim. Role girdiğimiz zamanda uygulamaya geçerdim."
+        },
+        {
+          "id": 2,
+          "text": "Söylediklerini ilk olarak dinlerdim.’’ Konuştuklarımız fazlasıyla mantıklı bence de en iyisi bu olur. Bu konuştuklarımızı IC de dökelim ki rol açından sıkıntı olmasın.’’ Derdim. Role geçtiğimiz zamanda direkt olarak buluşur ve rol hakkında konuşurduk."
+        },
+        {
+          "id": 3,
+          "text": "Yazdıklarını çok dikkate almam ve rolde karşılaşır karşılaşmaz ‘’ Sen bana mı ulaşmaya çalışıyordun geçen bana mesaj atmıştın ya hani’’ diyerek rolde öğrenmeyi denerdim ki rol hatası olmasın."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 5,
+      "type": "single-line",
+      "question": "Çok değerli ve sizin için çok önemli bir eşya var ve bunu elde etmek için günlerce uğraşıyorsunuz fakat tam bu eşyayı elde edeceğiniz sırada bir illegal kişi size baskın yapıyor ve sizi vurup eşyayı alıyor fakat onun kim olduğunu biliyorsunuz. Sizi doktorlar buluyor ve olayı da unutmuyorsunuz hastanenden çıktıktan sonra bu rolü nasıl devam ettirirsiniz? (HATIRLAMA ROLÜNÜ HATA OLARAK GÖRMEDEN CEVAPLAYINIZ)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Öncelikle hastaneden çıkar çıkmaz adama karşılık vermeye çalışmam Revenge Kill'e girer buda rol hatası olur. Muhtemelen polisler beni alıp sorgulamaya çalışacak. Sorguda kişiyi tanımadığımı kimseyle bir sorunum olmadığını anlatırım. Ardından iyileşme sürecimi tamamladıktan sonra çevremde güvendiğim kişilere durum hakkında bilgilendirir ve kişiyi bulmaya çalışırım."
+        },
+        {
+          "id": 1,
+          "text": "İlk olarak hastaneden çıkar çıkmaz adama karşılık vermeye çalışmam RDM’e girer ve bu rol hatası olur. Doktor muhtemelen polislere haber edecektir. Gerekli ifadeyi verdikten sonra iyileşme sürecimin bitmesini beklerdim. İyileşme sürecim bittikten sonra şahsı bulmak için yola koyulurdum."
+        },
+        {
+          "id": 2,
+          "text": "Öncelikle hastaneden çıkar çıkmaz adama karşılık vermeye çalışmam Revenge Kill'e girer buda rol hatası olur. Doktor muhtemelen polislere haber edecektir. Gerekli ifadeyi verdikten sonra hastaneden çıkar çıkmaz kişiyi aramaya düşerim."
+        },
+        {
+          "id": 3,
+          "text": "Hastaneden çıkar çıkmaz adama karşılık vermeye çalışmam Fail Rp’e girer ve bu rol hatası olur. Doktor muhtemelen polislere haber edecektir. Gerekli ifadeyi verdikten sonra iyileşme sürecimin bitmesini beklerdim. İyileşme sürecim bittikten sonra şahsı bulmak için çevremdeki kişilere haber eder ve role koyulurdum."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 6,
+      "type": "single-line",
+      "question": "Aranır durumdayken sakince bir ıssız bir yerde bekliyorsunuz ve bir anda polisler etrafınızı sarıyor. Yerinizi bulamayacaklarına emin olduğunuz için META yaptıklarında eminsin. Rolü nasıl devam ettirir, sonrasında ne yaparsınız?",
+      "options": [
+        {
+          "id": 0,
+          "text": "O anda çevremi sardıkları için yakalanacağımdır. Departmana gittikten sonra önce sorgumu alırlar ve ardından cezamı vereceklerdi. IC de yapacağım bir karşı saldırı olursa eğer bu durum OOC bir durumu role dökmek olur. O yüzden rol içerisinde karşı bir saldırıda bulunmam. Rol bitiminde ticket açarak rol hakkında bulunan ekran görüntüleri vs. bulunan şeyleri yollar ve yetkili ekibini bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "Anlık olarak kaçmaya çalışmam ve oldukça sakin olmaya çalışırım. Sorgumu almalarından sonra bir plan düzenler ve diğer oyunculara rol paslayarak karşı saldırıda bulunmaya çalışırım. Rol bitiminde DISCORD üzerinden polis karakteri olan kişilere ulaşarak rol hakkında konuşurum."
+        },
+        {
+          "id": 2,
+          "text": "O anda çevremi sardıklarında bir kaçacak yer bulabilirsem kaçmayı denerim. Kaçtığım esnada arkadaşlarıma telefon üzerinden polislerden kaçtığımı söylerim ve bir konuma geçmelerine isterim. Rol devamında polisleri pusuya düşürerek rolü devam ettirmeyi denerim. "
+        },
+        {
+          "id": 3,
+          "text": "Kaçmayı denemeden teslim olurum. Kelepçelemeleri ardından ‘’Beni bulmanız imkânsızdı ama kuşlardan haber mi aldınız. Yaptıklarınız normal değil’’ gibi bir cümle kurup durumu anlatmaya çalışırım. Departman da sorgumun alınmasından sonra cezamı vereceklerdir. Rolde bir karşı saldırı bulunmadan rol sonunda yetkili ekibine durum hakkında bilgi veririm."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 7,
+      "type": "single-line",
+      "question": "Motel odana ‘’Ruhsatı olan‘’ silahını bıraktın ve odandan ayrıldın, yavaş adımlarla dışarıya çıkıyorsun. Motel önünde 2 vatandaşın kavga ettiğini gördün. Kavga edenlerden biri de senin çok yakın bir arkadaşın. Olay yerine gidip kavgayı ayırmaya çalışıyorsun. Tam bu sırada hızla bir motor yaklaştı ve size doğru ateş açarak hızla önünüzden geçti. Motorlu kişinin yüzünü ve kıyafetini gördün. Şahsın eşkâlini biliyorsun nasıl bir role girersin rolü nasıl devam ettirirsin?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Silahımı olaya karıştırmam. Arkadaşlarımın yanına giderim ve ne için kavga ettiklerini ve ortamı sakinleştirmeye çalışırım. Polisler geldiğinde ise şahit olarak olayı anlatır ve kameralardan da onaylanabileceğini söylerim."
+        },
+        {
+          "id": 1,
+          "text": "Arkadaşlarımdan da 1 tanesini yanıma alarak motorlu kişiyi aramak için aracıma atlarım."
+        },
+        {
+          "id": 2,
+          "text": "Silahımı olaya karıştırmam ve bölgeye gelen polislere olayı anlatırım. Daha sonrasında ise silahımı alırım ve arkadaşıma veririm. Beraber motorlu kişinin peşine düşeriz. Gördüğümüz yerde bizde tararız."
+        },
+        {
+          "id": 3,
+          "text": "Silahımı alırım ve arkadaşıma veririm. Polisler geldiğinde ise suçu ona atarım."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 8,
+      "type": "single-line",
+      "question": "Bir mahkeme mevcut ve mahkeme günü gelip çattı. Takım elbisenizi giyip şık bir şekilde Mahkeme Salonuna doğru ilerliyorsun. Mahkeme Salonuna giriş yaptın ve Savcı 'Şahitlerin kendilerine ayrılmış yerlere oturmasını' talep etti. Yanındaki şahıs sana şahitlerden birisi olduğunu söyleyerek ‘’Oturma kası neydi?‘’ Gibi bir söylemde bulundu. Sen ise emote sesli bir şekilde söyledin. Mahkeme bittikten sonra şahıs mahkeme binası önünde sana teşekkür ederek göbek adın ne diye sordu. Bu rolde yapılan rol hataları nelerdir?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Sesli olarak emoteyi söylememiz ve oturma kası neydi gibi bir soru sormak tamamen rol hatasıdır. ''Göbek Adı'' altında OOC isim sorulması da rol hatasıdır. Bu durumu sistem üzerinden ticket açarak yetkililere bildiririm."
+        },
+        {
+          "id": 1,
+          "text": "Herhangi bir rol hatası yoktur, emoteyi unutmuş olmamız insanlık hali."
+        },
+        {
+          "id": 2,
+          "text": "Emoteyi sesli olarak söylemek yerine ./ooc den yazmamız gerekir ve bu rol hatasıdır."
+        },
+        {
+          "id": 3,
+          "text": "Böyle bir rol Refuse RP hatasıdır."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 9,
+      "type": "single-line",
+      "question": "Bir illegalsin market soymaya karar verdin. Markete girdin ve kasiyere ellerini kaldırmasını ve kasadaki tüm parayı sana vermesini söyledin. Fakat çevredekilerin de ihbarı ile polisler olay yerine geldi ve hazır konumda elleri silahlı bir şekilde hamleni bekliyorlar. Bir rütbeli polis ellerini kaldırarak sana yaklaştı ve sana sakin olmanı, ters bir hareket yapmayacağın takdirde buradan sağ çıkacağını belirtti ve sana isteklerin nedir? diye sordu. Sen ise rehine başına yüklü miktar para istedin ve polis bunu karşılayamayacağını söyledi. Sen ise bu duruma çok sinirlenip rehinenin bacağına sıktın. Bunu gören polisler seni olay yerinde aniden etkisiz hale getirdi ve olay incelemesinden sonra hastaneye getirildin. Bu role çok sinirlendin ve tedavi işlemin bitmeden sinirlenip quit attın. Bu rolde yapılan hatalar nelerdir? Yerine nasıl bir rol yapılabilir?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Polisten güvenli çıkış isteyip kendim kaçmaya çalışırdım. Hatalar ise RefuseRP ve quit atmak."
+        },
+        {
+          "id": 1,
+          "text": "Herhangi bir hata yok herkes sinirlenebilir."
+        },
+        {
+          "id": 2,
+          "text": "Hata yok rehine yerine direkt polise sıkılabilirdi."
+        },
+        {
+          "id": 3,
+          "text": "IC/OOC mixing var sinirlenip quit atmaktan dolayı. Bunun yerine sinirlenmeyip sakin kalınıp rolü devam ettirebilirdim."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 10,
+      "type": "single-line",
+      "question": "Günlerden cumartesiydi akşam olmuş günün sıkıcı geçen saatlerini üstünden atmak istiyorsun. Hava durumu da tam dışarda dolaşmalık bir gün. Havanın ve güzelliği seni cezbediyor ve aracın ile gezmek için dışarıya çıkıyorsun. Aracın ile dolaştığın esnada canın bir kaç kadeh içki içmek istiyor. Aklına önceden arkadaşların ile gittiğin Teklila Bar geliyor ve aracınla mekâna doğru yöneliyorsun. Mekâna yaklaştığın esnada içerden gelen müzik sesi ve insanların uğultusu kulağına yavaşça işliyor. Mekâna girdikten sonra bar sandalyelerinden birine oturup bir şişe bira alıyorsun. Bir kaç kadeh içtikten sonra arkada bulunan rahat koltuklardan birine geçip oturuyorsun. Oturduğun esnada yanına çok güzel bir kadın yaklaşıyor ve seninle beraber içmek istediğini söylüyor. Sende kafan pek yerinde olmadığı için kabul ediyorsun. İçtiğin şişelerin bir yerden sonra dozu kaçmaya başlıyor ve kafanda yarattığı sarhoşluk etkisi git gide artıyor. Yanında bulunan kadın senin sarhoş olduğunu anlamasından sonra sana yaklaşarak önce cüzdanını alıyor (/me Kişinin cebindeki cüzdanını yavaş bir şekilde alır.) ve öpmeye başlıyor. Kadın saatler ilerledikçe yapmış olduğu eylemleri dozunu artıyor ve elini vücudunda dolaştırmaya başlıyor. Her şey sonra eriyor ve uyandığında barın o koltuğunda üstün başın dağılmış bir şekilde uyanıyorsun.(Burada yapılan rol hatası nedir ve rol devamında ne yaparsın?).",
+      "options": [
+        {
+          "id": 0,
+          "text": "Yapılmış olan rolde yapılan hata Force RP ve kişiden izin alınmadan yapılan E-RP’dir. Uyandığımda muhtemelen dün yaşanan şeyleri çok az hatırlayacağımdır. İlk yapacağım cüzdanımı ve üzerimde bulunan değerli eşyalarımın yerinde olup olmadığına bakarım.  Üzerimde bulamadığım için önce barın sahibiyle konuşmaya çalışır ve kamera kayıtlarına bakmak istediğimi söylerim. Ardından polisle iletişime geçip yaşanan durumu hatırladığım kadar anlatmaya çalışırım. Rol bitiminde yaşananlar hakkında yönetime ticket açarak bilgi verirdim."
+        },
+        {
+          "id": 1,
+          "text": "Yapılmış olan rolde yapılan hata Fail RP ve kişiden izin alınmadan yapılan E-RP’dir. Uyandığımda cüzdanımı bulmaya çalışırım. Hatırladığım kadar kadın hakkında barda bulunan kişileri sorular sorarım. Devamında bar sahibine durumdan bahseder ve kamera kayıtlarını isterim. Ardından polislere yaşadığım olay hakkında bilgi verir ve şikâyette bulunurum. Rol bitiminde ticket açarak yönetime bilgi veririm."
+        },
+        {
+          "id": 2,
+          "text": "Yapılmış olan rolde yapılan hata Force RP ve Fail RP’dir. Uyandığımda cüzdanımı ve değerli eşyalarımı ararım. Ardından bardaki kişilere kadın hakkında sorular sorar ve aramaya çıkarım. Eğer kişiyi bulursam cezasını oyunda keserek rolü OOC çıkarmadan halletmeye çalışırım. Rol bitiminde kişiyi discord üzerinden bulur ve rol için teşekkür ederim."
+        },
+        {
+          "id": 3,
+          "text": "Yapılmış olan rolde yapılan hata Force RP ve kişiden izin alınmadan yapılan E-RP’dir Uyandığımda üzerimde cüzdanımın olup olmadığına bakarım. Devamında barda bulunan kişilere kadın hakkında sorular sorar ve kamera kayıtlarını isterim. Rolün devamında polislere bilgi veririm ve polislere de rol paslarım. Son olarakta kişiyi dicord üzerinden bulup neden böyle bir şey yaptığını sorarım."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 11,
+      "type": "single-line",
+      "question": "GYM de spor yapıyorsunuz ve spor yaptığınız bölgeden silah sesleri geldi. Ardından polis bölgeye ulaştı ve sizin olay yerinde ifadenizi almaya başladı. Tam bu sırada belinizden silahınızı yanlışlıkla çıkardınız. Polise bu durumun yanlışlıkla gerçekleştiğini nasıl anlatırsınız?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Polis geldiğinde sistemsel olarak silahımı yanlışlık ile çıkardığım için ''/do Silah görünmemiştir.'' vb. emote kullanarak polis ile olan rolümü şekillendiririm."
+        },
+        {
+          "id": 1,
+          "text": "Hiç bir şekilde bozuntuya vermeyip ''Buyurun memur bey silahım burada kontrol edebilirsiniz.'' şeklinde role karşılık veririm."
+        },
+        {
+          "id": 2,
+          "text": "Polis silahı gördükten sonra konuşmamı devam ettirip silah olmadığını yanlış bir şey gördüğünü ve belimin kaşındığı söyler ikna etmeye çalışırım."
+        },
+        {
+          "id": 3,
+          "text": "Silahımı gören polis tepki vermesi halinde silahımı ateşler polisi etkisiz hale getirip bölgeden kaçmayı denerim."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 12,
+      "type": "single-line",
+      "question": "Bir partidesin, içeride ki herkes hem alkol hem de uyuşturucu tüketiyor. İçeride ki herkesin kafası trilyon. Sonra arkadaşların hava almaya çatıya çıkıyor ve senide çağırıyorlar. Sen de gidiyorsun sonra sırayla aşağıya atlamaya başlıyorlar ve paraşütleri açılıyor. Daha sonra son kalan kişi sana bir çanta veriyor ve içerisinde paraşüt olduğunu söylüyor eğer paraşüt ile aşağıya atlarsan 10.000$ vereceğini eğer yürüyerek aşağıya inersen senin onlara 10.000$ vereceğini söylüyor ne yaparsın?",
+      "options": [
+        {
+          "id": 0,
+          "text": "O an da kafam güzel olduğu için çantanın içine bakmam büyük ihtimal ile. 10.000$ iyi bir miktar para olduğu için düşünmeden çantayı takıp aşağıya atlarım."
+        },
+        {
+          "id": 1,
+          "text": "Alkol veya uyuşturucu kullanmadıysam mantıklı düşünüp çantayı kontrol etmek isterim. Kontrol ettiğimde çanta da paraşüt olduğuna emin olursam aşağıya atlarım."
+        },
+        {
+          "id": 2,
+          "text": "Alkol veya uyuşturucu kullanmadıysam mantıklı düşünüp çantayı kontrol etmek isterim. Kontrol ettiğimde çanta da paraşüt olmadığını gördüğüm zaman varmış gibi davranıp karaktere CK atmak ve yeni bir karakter ile yeniden başlamak için atlayıp karakterime CK veririm."
+        },
+        {
+          "id": 3,
+          "text": "Böyle tehlikeli bir teklifi geri çevirip partiye geri dönerim çünkü karakterim paraşüt kullanmayı bilmiyor. Bu tarz eylemlerde karakterimin bir gelişime ihtiyacı olur. Fakat partide fazla alkol ve uyuşturucu kullanmışsam muhtemelen ne olduğunu pek anlamadan teklifi kabul ederim."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 13,
+      "type": "single-line",
+      "question": "Rolde hasım olduğunuz bir karakter var ve size gelip sataşmaya başladı. Olaylar büyüdü ve silahlar çekildi. Olayın sonunda kendisi sizi silahla etkisi hale getirdi ve olay yerinden bir şekilde kaçmayı başardı. Hastaneye gidip tedavi işlemlerinizi tamamladınız ve hastaneden çıktınız yolda yürüyorsunuz. Tam bu sırada sizi vuran hasmınızı gördünüz ne yaparsınız?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Yanımda silah vs. zarar verici bir alet var ise takip eder ıssız bir yer kollar kaçırırım. Şehirden biraz uzak yere götürüp cezasını keserim."
+        },
+        {
+          "id": 1,
+          "text": "Yeni vurulduğum için hiç bir şey hatırlamam. Kimin yaptığını bilmediğim için yoluma devam ederim."
+        },
+        {
+          "id": 2,
+          "text": "Hemen arkadaşlarıma haber verip takibe başlardım. Arkadaşlarım geldiği zaman drive-by atıp bölgeden kaçarım."
+        },
+        {
+          "id": 3,
+          "text": "İyileşme sürecim daha tamamlanmadığı için yolumu değiştirip daha detaylı plan yaparak ilerleyen zamanlar da sağlığım yerine gelince planıma göre hareket ederim."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 14,
+      "type": "single-line",
+      "question": "İllegal/legal bir karakteriniz var. Bir partiye gidiyorsunuz arkadaşınız sizi aradı ve ''parti başladı acele et'' dedi. Siz yetişmeye çalışırken çevirmeye yakalandınız/denk geldiniz. Görevdeki polis sizden motoru kapatmanızı ardından da kimliğinizi rica ediyor. Yapacağınız rol nasıl olurdu?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Motoru kapatmadan kaçmaya başlarım. Polise rol çıkması açısından diğer rol bekleyebilir. Maksat polisler de eğlensin."
+        },
+        {
+          "id": 1,
+          "text": "Acil bir işim olduğunu ve bekleyemeyeceğimi söyler gazlar giderim. Polis arkamdan gelirse eğer durmadan parti yerine giderim. Parti bölgesinde durduğum zaman buraya geldiğimi söyler polisleri göndermeye çalışırım."
+        },
+        {
+          "id": 2,
+          "text": "Kimliğimi çıkarıp gösterip işlemler bittiği zaman yoluma devam ederim. Giderken ise polislerin beni oyaladığı için uygunsuz kelimeler ile bağırarak söylenirdim."
+        },
+        {
+          "id": 3,
+          "text": "Polis ile muhabbet kurar güzel bir şekilde durumu izah edip bir an önce partiye gitmeye çalışırım. Uzun bir işlem sürecek ise arkadaşımı arar durumu iletip geç geleceğimi söylerim."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 15,
+      "type": "single-line",
+      "question": "Yorucu bir işin ardından paranı alıp aracına biniyorsun, kontağı çevirip motoru çalıştırdıktan sonra gaza basıp evine doğru ilerliyorsun. Yol kenarında otostop çeken siyahi bir vatandaş dikkatini çekti ve aracı durdurup onu istediği yere bırakabileceğini söyledin. Kişi araca bindikten sonra elini telefonuna götürdü ve polisi aradı. Polis olay yerine gelince siyahi vatandaş polise; 'Bu adam beni aracına zorla bindirip paralarımı aldı, lütfen yardım edin' dedi. Şaşkınlık içinde olayı dinliyorsun. Böyle bir olayda yapacağın rol nasıl olurdu, polis ile nasıl bir role girerdin?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Sakince anlattıklarını dinlerim. Anlattıkları bitince belimdeki bıçağı çekip siyahi adama doğru sallarım. Yaraladığım zaman koşarak uzaklaşmaya çalışırım."
+        },
+        {
+          "id": 1,
+          "text": "Polis memuru siyahi adamın anlattıklarını dikkate alıp beni gözaltına almaya çalıştıklarını fark edince arabama atlar kaçmaya başlarım."
+        },
+        {
+          "id": 2,
+          "text": "Olanları şaşkınlık içerisinde dinler ve böyle bir şeyin olmadığını açıklamaya çalışırım. Haklı olarak polis memuru bu şikâyet üzere gözaltına alacağı için zorluk çıkarmam. Aksine yardımcı olurdum. El ile tutulabilecek bir kanıt ister ve serbest bırakılmamı isterim."
+        },
+        {
+          "id": 3,
+          "text": "Memur gözaltına alırken siyahi adama söverdim. Siyahi adamı bulacağımı ve cezasını keseceğimi söylerdim."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 16,
+      "type": "single-line",
+      "question": "Şehire yeni gelmişsin ve tanıdığın bir kaç insanlardan para kazanmak için sana verdiği işlerden bazıları yapmak için uygun bir fiyat aldığın spor aracın ile birlikte şehir dışına doğru yola çıkıyorsun. Yavaş yavaş yolda ilerlerken yola yakın bir yerde bir kaç kişiye gözün çarpıyor ve sağa çekerek duruyorsun. Uzaktan baktığında size doğru gelen kişiyi pek tanımasanız da yaklaştıkça kim olduğunu anlıyorsunuz. İyice yaklaştığında arkadaşın olduğunu fark ediyorsun ve tam selam vermek üzereyken arkadaşın soluk soluğa ve size bağırarak ‘’Aracı çalıştır hemen!’’ diyerek yanınıza oturuyor. Ne olduğuna anlam veremeden arkadaşının paniğiyle birlikte hızlıca oradan ayrılıyorsunuz. Kafanı arkadaşına doğru çevirdiğinde karnında ki kanı fark ediyor ve ne olduğunu soruyorsun. O esnada arkanda iki tane polis arabasının çakarının yandığını ve size durmanız yönünde çağrıda bulunduğunu fark ediyorsun. Sen ne olduğunu anlamadan arkadaşın ‘’Sakın durma şu ilerden hemen dağa çık ve bizi buradan kurtar !’’ diyor. Siz o anın paniğiyle beraber hiç durmadan dağa doğru aracınızı sürüyorsunuz ve polislerden kurtuluyorsunuz… (Devamında rolü nasıl sürdürürdünüz ?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Öncelikle spor bir araçla dağlık bir alanda sürüş yapmam Non-RP Drive kuralının ihlalidir(Bu kural sunucunun nasıl bir rol mantalitesi olduğuna karşılık değişkenlik gösterebilir.) Polisleri atlatır atlatmaz arkadaşımın yarasını kontrol ederim. Ardından yarasına baktığımda pek anlayamayacağım için araç ve kılık değiştirerek hastaneye gideriz. Rol bitiminde yaşanan durum ile alakalı olarak ticket açarak yönetimi bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "İlk olarak spor bir araçla dağlık bir alanda sürüş yapmam VDM kuralının ihlalidir.(Bu kural sunucunun nasıl bir rol mantalitesi olduğuna karşılık değişkenlik gösterebilir.).Polislerden kurtulur kurtulmaz arkadaşımın yarasını kontrol ederim. Ardından yarasına baktığımda pek anlayamayacağım için araç ve kılık değiştirerek hastaneye gideriz. Rol bitiminde yaşanan durum ile alakalı olarak ticket açarak yönetimi bilgilendiririm."
+        },
+        {
+          "id": 2,
+          "text": "Öncelikle spor bir araçla dağlık bir alanda sürüş yapmam Non-RP Drive kuralının ihlalidir(Bu kural sunucunun nasıl bir rol mantalitesi olduğuna karşılık değişkenlik gösterebilir.) Polisleri atlatır atlatmaz arkadaşımın yarasını kontrol ederim. Ardından yarasına baktığımda pek anlayamayacağım için araç ve kılık değiştirerek hastaneye gideriz. Rol bitiminde o anda bizi takip eden polisleri discord üzerinden bularak özür dilerdim."
+        },
+        {
+          "id": 3,
+          "text": "Öncelikle spor bir araçla dağlık bir alanda sürüş yapmam Fear RP kuralının ihlalidir(Bu kural sunucunun nasıl bir rol mantalitesi olduğuna karşılık değişkenlik gösterebilir.) Polisleri atlatır atlatmaz arkadaşımın yarasını kontrol ederim. Ardından yarasına baktığımda pek anlayamayacağım için araç ve kılık değiştirerek hastaneye gideriz. Rol bitiminde o anda bizi takip eden polisleri discord üzerinden bularak özür dilerdim."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 17,
+      "type": "single-line",
+      "question": "İllegal bir karakter canlandırıyorsun şehirde yeni tanıştığın bir adamla birlikte bazı planlar yaparak soygun yapma düşüncesindesin. Planlarınızı hazırlayıp soygunu başarılı bir şekilde yapıyorsunuz. Fakat yeni tanışmış olduğunuz adam sizi yarı yolda bırakıp soygundan kaçtıktan sonra seni vurup üstünde ki tüm eşyaları ve parayı alıp şehrin ücra taraflarında bir yere atıyor. Hastanede gözlerini açar açmaz sana kazık atan adamı bulmak için hastaneden çıkıyorsun. Adamı bulduktan sonra rol içerisinde karşılık vererek bölgeden ayrılıyorsun… (Devamında rolü nasıl sürdürürdünüz ?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "İlk olarak hastaneden çıkar çıkmaz kişiyi arama rolüne girmem REVENGE KILL kuralının ihlalidir. İllegal olaylar zaman isteyen eylemlerdir. Yeni tanıştığım biriyle bu tarz bir role girmem benim hatamdır(Kişiyi hatırlama durumu sunucu kurallarına göre değişiklik gösterir).  Eğer ki kişiyi hatırlıyorsam iyileşme sürecimin bitmesini beklerim. İyileşme sürecimin bitmesiyle kişiyi aramak için çevremde bulunan kişilerle iletişime geçerek kişiyi ararım. Son olaraktan yapılan hata ile ilgili ticket açarak rol hakkında yönetimi bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "İlk olarak hastaneden çıkar çıkmaz kişiyi arama rolüne girmem FAIL RP kuralının ihlalidir. İllegal olaylar zaman isteyen eylemlerdir. Yeni tanıştığım biriyle bu tarz bir role girmem benim hatamdır(Kişiyi hatırlama durumu sunucu kurallarına göre değişiklik gösterir).  Eğer ki kişiyi hatırlıyorsam iyileşme sürecimin bitmesini beklerim. İyileşme sürecimin bitmesiyle kişiyi aramak için çevremde bulunan kişilerle iletişime geçerek kişiyi ararım. Son olaraktan yapılan hata ile ilgili ticket açarak rol hakkında yönetimi bilgilendiririm."
+        },
+        {
+          "id": 2,
+          "text": "Öncelikle hastaneden çıkar çıkmaz kişiyi arama rolüne girmem REVENGE KILL kuralının ihlalidir. İllegal olaylar zaman isteyen eylemlerdir. Yeni tanıştığım biriyle bu tarz bir role girmem benim hatamdır(Kişiyi hatırlama durumu sunucu kurallarına göre değişiklik gösterir).  Eğer ki kişiyi hatırlıyorsam iyileşme sürecimin bitmesini beklerim. İyileşme sürecimin bitmesiyle kişiyi aramak için çevremde bulunan kişilerle iletişime geçerek kişiyi ararım. Son olaraktan karakterime bu tarz bir tutum sergilen kişiyi discord üzerinden bularak uyarırım."
+        },
+        {
+          "id": 3,
+          "text": "Öncelikle hastaneden çıkar çıkmaz kişiyi arama rolüne girmem POWER GAMING kuralının ihlalidir. İllegal olaylar zaman isteyen eylemlerdir. Yeni tanıştığım biriyle bu tarz bir role girmem benim hatamdır(Kişiyi hatırlama durumu sunucu kurallarına göre değişiklik gösterir).  Eğer ki kişiyi hatırlıyorsam iyileşme sürecimin bitmesini beklerim. İyileşme sürecimin bitmesiyle kişiyi aramak için çevremde bulunan kişilerle iletişime geçerek kişiyi ararım. Son olaraktan karakterime bu tarz bir tutum sergilen kişiyi discord üzerinden bularak uyarırım"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 18,
+      "type": "single-line",
+      "question": "Bir gün kıyafet dükkânında gözüne kestirdiğin kıyafetleri aldınız ve kasaya gidip parayı ödedikten sonra dışarı çıkmak için kapıya yöneldiniz. Dışarı çıktınız ve kıyafet dükkânında yaklaşık 100 metre ilerledikten sonra yanınıza bir araç yaklaştı. Canları filmli olduğu için içeriyi tam olarak göremediniz. İçerisinden silahlı bir şahıs inerek silahını size doğru doğrulttu. Araca yaslanıp ellerinizi kaldırmanızı söyledi. Kişi size doğru yaklaşıp üstünüzü aramaya başladı. Siz üstünüzde para olmadığını ve az önce alışverişte harcadığınızı söylemenize rağmen üstünüzü aramaya devam etti. Üstünüzde çok az bir miktarda nakit para bulan soyguncu bu paranın yetersiz olduğunu ve sizi bankaya götürüp oradan para çekmenizi ve ona vermenizi istedi. Parayı verdikten sonra bölgeden hızlıca uzaklaştı. (Devamında rolü nasıl sürdürürdünüz ?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Öncelikle kişin karakterim uyguladığı Force RP kuralının bir ihlalidir. Kişi maskeli ve tanınmayacak bir durumda olduğu için bulmam imkânsız. Rolün devamında polis merkezine giderek yaşamış olduğum durumu rapor eder ve eşkâl hakkında aranma kaydı çıkarmaya çalışırım. Rolün bitiminde elimdeki kanıtlarla beraber ticket açarak yönetimini durun hakkında bilgilendiririm."
+        },
+        {
+          "id": 1,
+          "text": "İlk olarak kişinin karakterime uyguladığı Force RP kuralının bir ihlalidir. Kişi maskeli ve tanınmayacak bir durumda olsa bile sesinden tanıyabilirim. Rolün devamında polis merkezine giderek yaşamış olduğum durumu rapor eder ve sesinden tanıdığım kişi hakkında aranma kaydı çıkarmaya çalışırım. Rolün bitiminde elimdeki kanıtlarla beraber ticket açarak yönetimini durun hakkında bilgilendiririm."
+        },
+        {
+          "id": 2,
+          "text": "Öncelikle kişin karakterim uyguladığı Force RP kuralının bir ihlalidir. Kişi maskeli ve tanınmayacak bir durumda olduğu için bulmam imkânsız. Rolün devamında polis merkezine giderek yaşamış olduğum durumu rapor eder ve eşkâl hakkında aranma kaydı çıkarmaya çalışırım. Rolün bitiminde kişiyi discord üzerinden bularak uyarırım."
+        },
+        {
+          "id": 3,
+          "text": "İlk olarak kişinin karakterime uyguladığı Fail RP kuralının bir ihlalidir. Kişi maskeli ve tanınmayacak bir durumda olsa bile sesinden tanıyabilirim. Rolün devamında polis merkezine giderek yaşamış olduğum durumu rapor eder ve sesinden tanıdığım kişi hakkında aranma kaydı çıkarmaya çalışırım. Rolün bitiminde elimdeki kanıtlarla beraber ticket açarak yönetimini durun hakkında bilgilendiririm."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 19,
+      "type": "single-line",
+      "question": "Normal rutin bir günde sakin sakin yeni aldığınız ve hiç modifiye yapamadığınız aracınızı sürüyorsunuz. Canınız sıkıldı ve yapacak bir şeyler arıyorsunuz. Aracınızın torpidosunda bulunan legal taşıma sınırının üzerindeki uyuşturucuları aldınız ve satmaya karar verdiniz. Uyuşturucuları satmak için bir köşeye geçtiniz ve satmaya başladınız. Bir sattınız, iki sattınız. Aradan belli bir süre geçti ve siren sesini duymaya başladınız. Elinizdeki torbayı hızlıca torpidoya attınız ve aracın kontağını çevirdiniz ve kaçmaya başladınız. Polis sizi gördü ve dur ihtarı uyguluyor. Ancak siz kaçmaya devam ediyorsunuz. Bu süreç içinde maskeniz olduğu için tanınmayacağınızı biliyorsunuz. Uzun süren bir kovalamacanın ardından bir tünele girdiniz ve izinizi kaybettirmeyi başardınız. Hızlıca arkadaşınızı aradınız ve sizi alması gerektiğini söylediniz. Arkadaşınız sizi gelip aldığında maskenizi çıkardınız ve normal bir şekilde yola devam ettiniz… (Bu soruda rol hatası var mıdır? Var ise rol hatası nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Bu hikâye de rol hatası vardır. Nedeni ise bir illegal eylemde bulunup arkadaşımdan yardım istemektir. İllegal bir durum gerçekleştiğinde her hangi birinden yardım isteyemem."
+        },
+        {
+          "id": 1,
+          "text": "Bu hikâye de rol hatası yoktur. Nedeni ise maske taktığımız için arabamızı ve bizi tanınmayacak hale geldiğimiz durumudur. Polis aracı görse dahi beni tanıyamaz."
+        },
+        {
+          "id": 2,
+          "text": "Bu hikâye de rol hatası yoktur. Nedeni ise maske takıp yüzünü gizleyebilir fakat araba kendisinin olduğu için yakalanma olasılığı yüksektir. Bu olay ise daha sonrasında role dökülmesi durumunda bir sıkıntı yaratmayacaktır."
+        },
+        {
+          "id": 3,
+          "text": "Bu hikâye de rol hatası vardır. Bir araç ile tünele girip polise rol paslamamak için kendimi düşünerek hareket edilmesidir."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 20,
+      "type": "single-line",
+      "question": "İllegal bir karaktersin. Rolde hasım olduğun bir polis memuru var ve arkadaşınız bu memurun hastanede tek başına olduğunu söyledi. Bu durumda siz iki kişisiniz ve silahlarınız mevcut. Ne yaparsınız?",
+      "options": [
+        {
+          "id": 0,
+          "text": "İlk olarak hastanede bulunan polise dışarıya çıkmadan bir eyleme kalkışmam bir rol hatasıdır çünkü hastane, polis merkezi, motel vs. yerler yerel halkında orda olabileceğini düşünmemiz gereken konumlardır. Polis orda ne kadar tek başınada olsa bizim orda yapmamız gereken olay kişinin dışarıya çıkmasını beklemek olacak. İyileşme süreci bittikten sonra tek yakalayabileceğimiz bir durumda gerekli olan karşılığı kişiye verirdim."
+        },
+        {
+          "id": 1,
+          "text": "Polise karşı bir kinim olduğundan dolayı olayı arkadaşım ile bu işi titiz bir şekilde halletmeye çalışırım. Silahıma susturucuyu takar hastaneye doğru yola koyulurum bir şekilde silahımı hastaneye soktuktan sonra ise arkadaşıma etrafı kolaçan etmesini söylerim. Polisin odasını bulur, yastığı kafasına siper edecek şekilde yerleştiririm ateş ettikten sonra arkadaşım ile bölgeden hızlı bir şekilde uzaklaşırız."
+        },
+        {
+          "id": 2,
+          "text": "Sonuç olarak polis yaralı ve hastanede tek başına. Elimizdeki silah ne kadar tabancada olsa yeterince menzili olduğunu düşünüyorum. Hastane ateş edebileceğim bir konumdaysa drive-by ile işi bitirmeye çalışırım."
+        },
+        {
+          "id": 3,
+          "text": "Öncelikle hastanede bulunan polise dışarıya çıkmadan bir eyleme kalkışmam bir rol hatasıdır çünkü hastane, polis merkezi, motel vs. yerler yerel halkında orda olabileceğini düşünmemiz gereken konumlardır. O yüzden içeriye girmeden silahımla drive-by atarak işi bitiririm."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 21,
+      "type": "single-line",
+      "question": "Bir çetenin liderisin ekibinle birlikte bir soygun yapıyorsunuz ve başarılı olup kaçıyorsunuz. Daha sonra size ait olan bir villanın bahçesinde mangal partisi düzenliyorsunuz. Biraz zaman geçtikten sonra siz evin içerisindeyken yaklaşmakta olan siren seslerini duymaya başlıyorsunuz camdan baktığınızda tüm ekibinizin yakalandığını görüyorsunuz ve hızlıca villanın 3. katından aşağıya atlıyorsun ve ormanlık alanda izini kaybettiriyorsun ve ekibinin zulasını bir tek sen biliyorsun bu para ile şehirden nasıl kaçarsın?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Öncelikle camdan atlayıp hiçbir şey olmamış gibi devam etmem Power Gaming kuralı ihlalidir(Sunucunun rol mantalitesine göre değişebilir). Eğer izimi kaybettirebildiysem kılık değiştirmeye veya sahte bir kimlik çıkarmaya çalışırım. Rol sonunda da yönetime durum hakkında bilgi veririm."
+        },
+        {
+          "id": 1,
+          "text": "Öncelikle camdan atlayıp hiçbir şey olmamış gibi devam etmem RDM kuralı ihlalidir(Sunucunun rol mantalitesine göre değişebilir). Eğer izimi kaybettirebildiysem kılık değiştirmeye veya sahte bir kimlik çıkarmaya çalışırım. Rol sonunda da yönetime durum hakkında bilgi veririm."
+        },
+        {
+          "id": 2,
+          "text": "İlk olarak camdan atlayıp hiçbir şey olmamış gibi devam etmem NLR kuralı ihlalidir(Sunucunun rol mantalitesine göre değişebilir). Eğer izimi kaybettirebildiysem kılık değiştirmeye veya sahte bir kimlik çıkarmaya çalışırım. Rol sonunda da yönetime durum hakkında bilgi veririm."
+        },
+        {
+          "id": 3,
+          "text": "Öncelikle camdan atlayıp hiçbir şey olmamış gibi devam etmem Power Gaming kuralı ihlalidir(Sunucunun rol mantalitesine göre değişebilir). Eğer izimi kaybettirebildiysem kılık değiştirmeye veya sahte bir kimlik çıkarmaya çalışırım. Rol sonunda da polisleri discord üzerinden bularak durum hakkında konuşurum."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 22,
+      "type": "single-line",
+      "question": "Normal bir günde aracın ile gezerken kırmızı ışık ihlali yaptın ve peşine polis takıldı. Üzerinde legal taşıma sınırından fazla uyuşturucu madde bulunuyor. Bu sebeple panik yapıp kaçmaya başladın. Polis seni yakalayıp durdurdu ve neden kaçtığın hakkında sorular soruyor ve polis senden şüphelendi, aracı ve üstünü aramak istiyor ne yaparsın?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Polisin dediklerini harfiyen yerine getiririm. Daha sonrasında polise zorluk çıkarmayarak nedenleriyle beraber açıklamalarda bulunurum."
+        },
+        {
+          "id": 1,
+          "text": "Polisin dediklerini harfiyen yerine getiririm. Daha sonrasında Polise istediği gibi arama yapabileceğini ve güvenini kazanarak arama yapmamasını sağlamaya çalışırım."
+        },
+        {
+          "id": 2,
+          "text": "Polisin dediklerini harfiyen yerine getiririm. Daha sonrasında ise arama izninin olup olmadığını kendi isteğine göre arama yapamayacağını söyler zorluk çıkartırdım."
+        },
+        {
+          "id": 3,
+          "text": "Polisin dediklerini harfiyen yerine getiririm. Daha sonrasında yaya olarak kaçıp rolün gidişatına göre role devam ederdim"
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 23,
+      "type": "single-line",
+      "question": "Motelde arkadaşınızla muhabbet ediyorsunuz. Bu sırada arkadaşınız odaya bir şey bırakıp geleceğini söyledi ve odasına girdi. Odasına eşyayı bırakıp tekrardan çıktığında birisi arkadan yaklaştı ve arkadaşınızın beline bıçağı dayayıp tüm eşyalarını istedi. Şans bu ya sizin de belinizde silahınız var. Bu durumda ne yaparsınız?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hastane, polis merkezi, motel vs. yerler yerel halkında orda olabileceğini düşünmemiz gereken konumlardır. Bu yüzden bu durumu kayıta alıp delil niteliği taşıyan belgeler ile beraber şikâyette bulunurum. Rolde ise hiç bir şey yapmadan beklerdim."
+        },
+        {
+          "id": 1,
+          "text": "Karşı adamda bıçak olduğu için silahımı kafasına nişan alıp kişiyi etkisiz hale getiririm. Daha sonrasında arkadaşımı kontrol eder bölgeden en hızlı bir biçimde uzaklaşırım."
+        },
+        {
+          "id": 2,
+          "text": "Silahımı çeker adama doğrultup arkadaşımı bırakmasını söylerdim. Her hangi bir hareketinde ateş ederdim."
+        },
+        {
+          "id": 3,
+          "text": "Öncelik ile polise haber verip kişinin arkasına doğru geçmeye çalışırım. Eğer görmeden arkasına geçersem silahı kafasına dayar ve arkadaşımı bırakmasını söylerdim."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 24,
+      "type": "single-line",
+      "question": "Yolda giderken arabanız bozuldu. Aracı tamir etmek amacıyla araçtan indiniz. Tam kaputu açtığınız esnada arkaya bir motor yaklaştı. Kişi motordan inerek silahını sizin sırtınıza dayadı. Üstünüzde ki tüm eşyaları eşyaları ve aracın anahtarını istedi. Sizin de belinizde bir adet silah var. Bu durumda nasıl bir rol izlerdiniz?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hızlıca silahımı çekerim. Eğer kişi korkar ve silahını bırakırsa ben onu soyarım ve motorunun anahtarını alırım."
+        },
+        {
+          "id": 1,
+          "text": "Burada silahımı çekemem çünkü zaten kişi bana silah çekmiş ve doğrultuyor. Silahımı çekmem kendimi riske atar."
+        },
+        {
+          "id": 2,
+          "text": "Silahımı çekerim ve direkt kişiye rastgele ateş ederim."
+        },
+        {
+          "id": 3,
+          "text": "Fear RP yapmak zorunda olmadığım için silahımı çekmemde bir sorun yok. Bu yüzden NVL hatasına da girmez. Silahımı çekerim ve kişiye ateş ederek aracıma atlar ve kaçarım."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 25,
+      "type": "single-line",
+      "question": "Uber mesleği yapıyorsun bir müşteri senden hamburger istiyor paketçi arabana biniyorsun paketi götürüyorsun paketi götürdüğün yerde çok yakın arkadaşını 3 kişi kenara sıkıştırmış birinin elinde bıçak birinin elinde sopa birinin elinde silah bulunmakta seninde arabanda silah bulunmakta role nasıl devam edersin?",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hemen elimi telefona atarım ve polisler ile iletişime geçer, durumu anlatırım. "
+        },
+        {
+          "id": 1,
+          "text": "Hemen silahıma davranırım kişilerden silahlı olana doğru 2 el ateş ettikten sonra karambole dönerim ve karambolü oklamaya başlarım."
+        },
+        {
+          "id": 2,
+          "text": "Silahımı alır belime sokarım. Yanlarına giderim ve söz olarak uyarmaya çalışırım. Eğer ortam sakinleşmez ise silahımı çıkartırım ve direkt kişilere ateş açarım. "
+        },
+        {
+          "id": 3,
+          "text": "Umursamam mesleğime devam ederim. Kendi canımı da tehlikeye atamam."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN1"
+    },
+    {
+      "id": 26,
+      "type": "single-line",
+      "question": "Arkadaşınızla beraber şehir içerisinde dolaşmaktasınız. İkinizde belli bir vakittir illegal işlerde bulunuyorsunuz. UTC olarak saat sabaha doğru ve sunucuda çok fazla kişide bulunmamakta. Dolaştığınız esnada aracına yaslanmış bir şekilde duran polis gördünüz ve yüzü size görebilecek bir şekilde durmakta(Bu polis öncesinde de sizle husumet yaşamış olan bir polis)Yan koltukta duran arkadaşınız size '' Kanka polis tek mailden baktım soyalım mı?'' dedi. Size de bu fikir mantıklı geldi ve polisi soyduktan sonra hızlı bir şekilde uzaklaştınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta / Retarted RP"
+        },
+        {
+          "id": 1,
+          "text": "Force RP / RDM"
+        },
+        {
+          "id": 2,
+          "text": "VDM / Meta"
+        },
+        {
+          "id": 3,
+          "text": "Retarted RP / Fail RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 27,
+      "type": "single-line",
+      "question": "Soygun yapmaktasınız ve herkesin elinde çok sayıda silah bulunmakta. Başarılı bir şekilde soygunu yaptınız ve aracınız ile hazırlamış olduğunuz planı uygulamaya başladınız. Sürüş esnasında bir kaza oldu ve yayan olarak devam ediyorsunuz. Polisler sizi yakalamak üzereyken yüksek bir yerden atladınız. Yere düştüğünüzde polisler sistemsel olarak öldü ama siz az bir canla kurtuldunuz. Arkadaşınız konumunuzu attığınız yerden sizi aldı ve bölgeden uzaklaşarak soygunu başarılı bir şekilde tamamladınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fail RP"
+        },
+        {
+          "id": 1,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 2,
+          "text": "RDM"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 28,
+      "type": "single-line",
+      "question": "Bir çatışma içerisindesiniz ve zor bir şekilde ateş etmektesiniz. Boş bulduğununuz bir esnada ayağa kalkıyorsunuz ve bulunduğunuz bölgeden uzaklaşmaya çalışıyorsunuz. Tam o anda sistemsel olarak 3 adet kurşun vücudunuza isabet ediyor. Sizde (/do Sol omzundan vurulmuştur) emote olarak kullanıyorsunuz ve bölgeden zorluklar içinde uzaklaşıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "Force RP"
+        },
+        {
+          "id": 2,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 3,
+          "text": "NVL"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 29,
+      "type": "single-line",
+      "question": "Arkadaşlarınla beraber motel önünde sohbet etmektesiniz. Bir anda yanınıza hızlı şekilde gelen araç ağaca sert bir şekilde çarpıp yoluna devam ediyor. O sırada sohbet ettiğin arkadaşın ‘’Aynen kanka devam et. O kadar hızdan sonra nasıl devam edebiliyorsun hayret‘’ dedi ve sohbetinize devam ettiniz (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Role Check / Power Gaming"
+        },
+        {
+          "id": 1,
+          "text": "Role Check / NVL"
+        },
+        {
+          "id": 2,
+          "text": "Power Gaming / Fail RP"
+        },
+        {
+          "id": 3,
+          "text": "Fail RP / NVL"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 30,
+      "type": "single-line",
+      "question": "Soygun yapmak üzeresiniz ve ekipte herkeste  tek bulunan silah Ak-47. Planı ve gerekli olan gereksinimleri topladınız. Her şey hazır çantasız bir şekilde soygun yapacağınız bankaya doğru gidiyorsunuz. İçeri girdiniz ve silahı çıkarıp rehineye doğru tuttunuz. Polisle rehine karşılığı anlaşmanızı yaptınız ve bankadan dışarıya doğru çıkışınızı yaptınız. Plan istediğiniz gibi ilerledi başarılı bir şekilde soygunu tamamladınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Gun Out Of Ass"
+        },
+        {
+          "id": 1,
+          "text": "Fail RP"
+        },
+        {
+          "id": 2,
+          "text": "Combat Log"
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 31,
+      "type": "single-line",
+      "question": "Sahilde arkadaşların ile oturmaktasın. Normal hayatın nerdeyse her gün illegal işlerle geçmekte. Etrafın oldukça kalabalık, insanlar farklı farklı yerlerde sohbet etmekte kendi aralarında etkinlik yapmaktalar. Her şey oldukça normal ve sakinken bir anda siyah renkli bir araç size yaklaşarak ateş etmeye başlar. Silah sesleri kesildikten sonra ateş eden kişi ‘’Zamanında yaptığın şeyi unutacağımı mı sandın!!‘’ dedikten sonra bölgeden hızlıca uzaklaşır. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "RDM"
+        },
+        {
+          "id": 2,
+          "text": "VDM"
+        },
+        {
+          "id": 3,
+          "text": "Cop Bait"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 32,
+      "type": "single-line",
+      "question": "Rp yapmış olduğunuz sunucuda 2 adet karakter canlandırıyorsunuz. Bir karakteriniz doktor diğer karakteriniz illegal ama ağırlıklı oynadığınız karakter doktor karakteriniz. Doktor karakterinizden çıkıp illegal karakterinize geçiş yapıyorsunuz(İllegal karakterinizin hiç bir doktorluk bilgisi bulunmamakta). Girdiğiniz anda ekibinizden birinin vurulduğunu tedaviye ihtiyacı olduğunu öğreniyorsunuz. Durum illegal olduğu için EMS birimlerine haber veremiyorsunuz ve arkadaşınızın durumu da çok ağır. Sizde hiç durmadan yanına gidiyorsunuz ve arkadaşınızı çevreden bulduğunuz malzemeler ile  tedavi edip hayatını kurtarıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Mixing"
+        },
+        {
+          "id": 1,
+          "text": "Fail RP"
+        },
+        {
+          "id": 2,
+          "text": "Meta"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 33,
+      "type": "single-line",
+      "question": "Bir gün polis olarak tekrardan devriyene devam etmektesin. Yanındaki memur ile sohbet muhabbet içinde sakin bir yolculuk sürdürüyorsunuz. Bir süre sonra bir market soygunu ihbarı geldi ve operatör sizin yönlenmenizi telsizden geçti. Bunun üzerine çakar ve siren açarak son gelen ihbara yöneldiniz. Bölgeye vardığınızda kapıda 4 kapılı bir araç ve içeride 2 kişi ve 1 rehine gördünüz. Panik yaptınız ve acele içerisinde araçtan indiniz. Soygunculardan biri silahını rehineye doğrulttuğunu gördünüz. O anki acele ile silahı çıkarttınız ve soyguncu ya  2 el ateş ettiniz. Soyguncuların 2 sini de direkt olarak etkisiz hale getirdiniz ve artık rehineyi başarılı bir şekilde kurtarmış oldunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Force RP"
+        },
+        {
+          "id": 1,
+          "text": "NVL"
+        },
+        {
+          "id": 2,
+          "text": "Mixing"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 34,
+      "type": "single-line",
+      "question": "Bir gün mekanik olarak rol yapmaktasınız. İkinci bir karakteriniz sosyal ve legal ağırlıklı olan bir karakter. Mekanik karakterinizde iken işler kesat ve saatlerdir bir müşteri bile gelmiyor. Twitter dan insanların sahilde parti yaptığını ve çoğu insanların orda olduğunu görüyorsunuz. Hemen diğer karakterinize geçip sahile gidiyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta"
+        },
+        {
+          "id": 1,
+          "text": "Mixing"
+        },
+        {
+          "id": 2,
+          "text": "Non-RP"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 35,
+      "type": "single-line",
+      "question": "Bir gün çok paraya sıkıştınız ve para kazanmak için bir yol arıyorsunuz. İnsana soymaya karar verdiniz ve aracınıza bindiniz maskenizi taktınız. Sokak sokak dolaşıp insan arıyorsunuz. Tam o sırada kıyafet dükkânından çıkan bir insan gördünüz. Aracınızı kişinin yanına çekip hızlıca araçtan inip kişiyi soymaya başladınız. Kişinin üzerinde sadece az miktarda nakit para buldunuz ve kişiye bunun yetersiz olduğunu söylediniz. Bir ATM ye götürdünüz ve kişinin para çekmesini istediniz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Force RP"
+        },
+        {
+          "id": 1,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 2,
+          "text": "Bug Abuse"
+        },
+        {
+          "id": 3,
+          "text": "Mixing"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 36,
+      "type": "single-line",
+      "question": "Sabahın erken saatleri(UTC) güzel bir güne uyandınız ve günlük işinizi yapmaya gittiniz. Maden kamyonunu görevliden teslim aldınız ve yola koyuldunuz. Yolda gözünüz başka bir yere dalmışken büyük bir kaza geçirdiniz. Ancak sunucuda o anlık aktif bir yetkili veya oyuncu olmadığı için yolunuza devam ettiniz. Madeninizi yaptınız ve satışını yaparken arkadan bir araç geldi ve tam siz çantanızdaki malzemeleri satarken sizi soydu ve üstünüzdeki tüm parayı ve malzemeleri çaldı. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 1,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP"
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 37,
+      "type": "single-line",
+      "question": "Bir gün aracınız ile yolda sakin sakin bir sürüş keyfi ile yolunuza devam ediyorsunuz. Şehir dışından şehir içine girecekseniz. Tam şehir içine girileceği sırada polislerin çevirme yaptığını görüyorsunuz. Beliniz de ise ruhsatsız bir silah var. Çevirmeye yaklaşınca emote olarak ‘’/me Belindeki silahı çaktırmadan aracın torpidosuna koyar’’ yazıyorsunuz. Polisler bu emote görebilecek ama eylemi göremeyecek seviyede. Çevirmeye girdiniz ve durduğunuzda ise polis sizden ehliyet ve ruhsat istiyor. Polise ehliyet ve ruhsatı uzattıktan sonra polis gerekli kontrolleri sağlayıp size ‘’Yolunuza devam edebilirsiniz.‘’ dedi ve bu şekilde siz silahı başarılı bir şekilde saklamış ve polise yakalanmamış oluyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "Bug Abuse"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP"
+        },
+        {
+          "id": 3,
+          "text": "NLR"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 38,
+      "type": "single-line",
+      "question": "Bir gün ekip arkadaşlarınız ile birlikte market soygunu yapmaya karar verdiniz. Soygun için plan hazırladınız kıyafetler, malzemeler vs. tüm her şey hazır. Sadece geriye rehine bulmak kaldı. Motelden çıkan bir kişiyi gördünüz ve takip ettiniz. Yaklaşık 100-200 adım sonra kişiye silah doğrulttunuz ve kişiyi rehin almayı başardınız ancak tam o sırada polisler sizi gördü. Siz ise kişi alıp doğrudan markete doğru sürmeye başladınız. Markete girdiniz pazarlık ve soygunu yaptıktan sonra çıkış yaptınız. Belli bir süre sonra kovalamacada izinizi kaybettirmeyi başardınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "Fail Rp"
+        },
+        {
+          "id": 2,
+          "text": "Fear Rp"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 39,
+      "type": "single-line",
+      "question": "Motelden çıktınız ve az bir mesafedeki bir garaja doğru yürüyorsunuz. Yaklaşık 100 adım kaldığı sırada duvarın arkasından eli silahlı biri çıktı. Sizin kulağınızda telsiz ve cebinizde bir bıçak var. Kişi silahı size doğru doğrultuyor. Siz elinizi cebinize sokuyorsunuz ve bir süre elinizi cebinizde tutuyorsunuz. Tam karşınızdaki kişi size ellerini havaya kaldır dediği sırada bıçağı çıkartıp kişiye saplıyorsunuz. Kişi yarı baygın bir şekilde yere yığılıyor. Kişinin elindeki silah ve üzerindeki parayı da alıp kaçıyorsunuz. Kaçarken arkadaşlarınıza da aceleci bir şekilde ''Beni almanız lazım!! Adam bıçakladım!!'' Tarzında bir telsiz geçiyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fear Rp"
+        },
+        {
+          "id": 1,
+          "text": "Fail Rp"
+        },
+        {
+          "id": 2,
+          "text": "Meta"
+        },
+        {
+          "id": 3,
+          "text": "Refuse RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 40,
+      "type": "single-line",
+      "question": "Bir market soygununda rehinesiniz ve soyguncular üzerinizi aramayı unuttu. Soygunculardan biri silahını size doğrultmuş, diğeri ise market kasasını soyuyor. Polisler ise olay yerine daha gelmedi. Cebinizdeki bıçağı çıkartıyorsunuz ve size silah doğrultan soyguncuya doğru atlayıp bıçaklıyorsunuz. Ardından koşarak soygundan kaçmayı başarıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fear Rp"
+        },
+        {
+          "id": 1,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 2,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 3,
+          "text": "Non-RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 41,
+      "type": "single-line",
+      "question": "Polissiniz ve devriyenize devam ediyorsunuz. Aşırı olaysız ve sıkıcı bir gün geçiriyorsunuz ve çok sıkıldınız. DISCORD üzerinden ''Rollerden Kareler'' kısmında herkesin sahilde olduğunu gördünüz ve devriye rotanızı sahil bölgesine çevirdiniz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta"
+        },
+        {
+          "id": 1,
+          "text": "Mixing"
+        },
+        {
+          "id": 2,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 42,
+      "type": "single-line",
+      "question": "Polisiniz ve kuyumcu soygunu ihbarı üzerine kuyumcu bölgesine yöneldiniz. İçerideki soyguncular ile anlaşma yapmak için kapıya geldiniz. Sesinden tanıdığınız birinin o an herhangi bir platformda yayın yaptığını biliyorsunuz. Arkada yayını açtınız ve kişilerin planını anladınız. Bunun üzerine gidip belli noktalara dikenli tel koydunuz. Soyguncular kuyumcudan çıktı ve sizin koyduğunuz tellere yakalandılar. Böylece başarılı bir şekilde soyguncuları yakalamış oldunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta"
+        },
+        {
+          "id": 1,
+          "text": "Fear RP"
+        },
+        {
+          "id": 2,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 3,
+          "text": "Car Surfing"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 43,
+      "type": "single-line",
+      "question": "Şehir içerisinde sakin bir alanda yavaş adımlarla yürürken bir kişi tarafından arkandan silah doğrultuluyor, bu sırada elini beline atıp silahını alıp dönerek bir anda kişiye zarar verip yaralıyorsun. Sonrasında bulunduğun bölgede hızlı bir şekilde kaçıyorsun. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fail Rp"
+        },
+        {
+          "id": 1,
+          "text": "VDM"
+        },
+        {
+          "id": 2,
+          "text": "NLR"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 44,
+      "type": "single-line",
+      "question": "Bir motor çetesi karakteri canlandırıyorsun, arkadaşların ile bulunduğun bir çatışma içerisinde yaralandın, hastaneye kaldırıldın ve hastanede seni öldüren kişileri gördün. O sırada doktor sizin tedavinizi gerçekleştiriyor ama sistemsel olarak canınız full. Üzerinizdeki çatışmadan kalan silahı elinize alıyorsunuz ve kişilere direkt ateş açıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Revenge Kill"
+        },
+        {
+          "id": 1,
+          "text": "Fear Rp"
+        },
+        {
+          "id": 2,
+          "text": "RDM"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 45,
+      "type": "single-line",
+      "question": "Legal bir karakteriniz mevcut arkadaşlarınız ile balık tutmaya gitmeye karar verdiniz. Kıyafetlerinizi giydiniz çantanıza oltanızı ve yeminizi koyup yola çıktınız. Arkadaş grubunuz ile balıkları tuttuktan sonra balıklarınızı satmak için satıcıya doğru yola çıktınız balıklarınızı satıp belli bir miktar para alacakken scriptsel bir sorundan ötürü alacağınız paranın 5 katını aldığınızı fark ediyorsunuz. Etrafınızı kontrol ediyorsunuz her hangi birisinin olmadığına eminsiniz ve parayı alıp o bölgeden uzaklaştıktan sonra bu durumu arkadaşlarınıza söylüyorsunuz ve balık tutmak için arkadaşlarınızla farmlamaya başlıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Bug Abuse"
+        },
+        {
+          "id": 1,
+          "text": "Meta"
+        },
+        {
+          "id": 2,
+          "text": "Smileys IC"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 46,
+      "type": "single-line",
+      "question": "İllegal bir ekibiniz mevcut bir banka soygunu düzenlemek için gerekli planları yapıp soygunu yapacağınız günü bekliyorsunuz. Gün geliyor ekibiniz ile hazırlanıyorsunuz planlarınızı tekrardan gözden geçiriyorsunuz lakin araç eksiğiniz olduğundan dolayı bir araç çalmanız gerekiyor. Ekibinizden bir kişiye araç çalıp getirmesini istiyorsunuz. Ekibinizdeki kişi bir otopark bulup otoparkın içine giriyor, heyecanlı ve korkak tavırlar ile etrafı kolaçan edip bir araç seçiyor. Aracın yanına gidip hızlı bir şekilde arabayı alıp kaçırıyor ve artık soygunu başlatmak için tüm gerekli şeyler tamamlanıyor ve yola koyuluyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?) ",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "Meta"
+        },
+        {
+          "id": 2,
+          "text": "Smileys IC"
+        },
+        {
+          "id": 3,
+          "text": "RDM"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 47,
+      "type": "single-line",
+      "question": "İllegal bir ekipsiniz ve arkadaşlarınla kuyumcu soymak için plan bir plan oluşturdunuz. Plan oldukça basit polisleri çıkmaz bir sokağa çekip çatışma içerisinde altınları bölgeden uzaklaştırma. Kıyafetlerinizi giydiniz, gerekli ekipmanları topladınız ve rehine aramak için yola koyuldunuz. Uzun Uğraşlar sonucu rehineyi bulup kuyumcu dükkânın bulunduğu konuma geldiniz. Arkadaşınız içerde soygunla uğraşırken sizde polislerle anlaşma içerisindesiniz. Anlaşmada polislerden helikopterin olmamasını istediniz ve emote kullanarak ''/do Hava helikopter olmaması gerekmekte.'' gibi bir emote kullandınız. Soygun başarılı bir şekilde gerçekleşti ve çıktığınız esnada havada helikopter gördünüz. Plana doğru ilerlemektesiniz yaklaştığınız anda arkadaşlarınıza haber ettiniz ve çatışma başladı. Sizde araçtan inerek zig zag çizerek kaçmaya başladınız ve kendinizi bir sipere doğru attınız. Çatışma çok hararetli geçmesinden sonra bir kaç ağır yarayla kurtularak olay yerinden uzaklaştınız. (Burada bir rol hatası var mıdır, varsa nelerdir?) ",
+      "options": [
+        {
+          "id": 0,
+          "text": "Chicken Runing / Force RP"
+        },
+        {
+          "id": 1,
+          "text": "Fear RP / Force RP"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP / RDM"
+        },
+        {
+          "id": 3,
+          "text": "Hata Yok"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 48,
+      "type": "single-line",
+      "question": "Arkadaşlarınla beraber motel önünde sohbet etmektesin. Sen önceden kalma alışkanlığından her durduğun yerde cebinde bulunan ikiyüzlü demir para ile oynamaktasın. Arkadaşlarından biri elindeki demir paraya bakmak istedi. Sende /me Elindeki bozuk parayı kişiye doğru atar emote kullanarak arkadaşına doğru attın ama o anda arkadaşın karşılık olarak /do Bozuk para yere düştü emote kullandı. Ardından arkadaşın /me Bozuk parayı yerden alır ve üstünü temizler emote kullanarak devam etti. Bozuk parayı biraz incelemesinden sonra /me Bozuk parayı ışığa doğru uzatır emote kullandı ve ardından /do Para parlamakta mıdır emote kullandı. Sizde karşılık olarak /do Olumlu olarak karşılık verdiniz... (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "Emote hatası"
+        },
+        {
+          "id": 2,
+          "text": "Ninja Jackıng"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 49,
+      "type": "single-line",
+      "question": "Uzun bir vakittir oynadığınız karakter var ve artık sıkıldığınızı hissettiniz. Karakter oldukça tanınmış, şehirde bulunan çoğu gizli yeri bilmekte ve zengin bir kişi. Yönetim kadrosundan ricada bulunarak bir CK senaryosu tasarlamalarını istedin. Yönetim kadrosu biraz düşündükten sonra isteğini kabul etti ve bir senaryo hazırladılar. Her şey iyi ilerlemişti, herhangi bir problem ile karşılaşılmadan güzel bir sonla karakterinize CK attınız. Yeni bir karakter oluşturdunuz. Şehirde ilk gününüz ve her zamanki gibi parkta duran bir aracı çalarak şehirde doğru ilerlediniz. Yeni roller, yeni bir hayat ve yeni bir gelecek için heyecanlısınız. İlk defa geldiğiniz için ne yapacağınızı bilmediğinizden bir markete girdiniz ve yiyecek bir kaç bir şey aldıktan sonra marketin arka sokağına doğru geçerek oyundan çıkış sağladınız.(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "NLR"
+        },
+        {
+          "id": 1,
+          "text": "Emote hatası"
+        },
+        {
+          "id": 2,
+          "text": "Ninja Jackıng"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 50,
+      "type": "single-line",
+      "question": "Belli bir zamandır bir guruba karşı sözel olarak atışmaktasınız ve durum git gide ciddileşmeye başlıyor. Ekibin ile bir toplantı düzenliyorsun. Plan kurarak karşı gruba bir saldırı yapmayı düşünüyorsunuz. Plan konusunda ekibin ile anlaştıktan sonra planı devreye koymak için gerekli işlemlere başlıyorsunuz. Araçlarınız ile dolaşırken karşı grubun bir kıyafet dükkânının önünde konuştuklarını fark ediyorsun. Ekibine konumlarını söyledikten sonra araçlarınızdan inerek ateş açmaya başlıyorsunuz. Karşı gruptan iki kişi sistemsel olarak bir kaç kurşunun isabet etmesi sonucunda sistemsel olarak ölüyorlar. Siz yanlarından geçerken ''Kanka güvenli bölgede böyle bir şey yapamazsınız'' gibi söylemde bulunduğunu duyuyorsunuz. Ekipten geri kalanı bulmak için arkalarından koştuğunuz esnada onlar çoktan kaçmış durumda. Çok zaman geçmeden yanlarına dönüyorsunuz ve geri döndüğünüzde yerde yatan kişilerin ortadan kaybolduklarını fark ediyorsun ve hızlı bir şekilde bulunduğunuz konumdan uzaklaşıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Combat Log / OOC söylem"
+        },
+        {
+          "id": 1,
+          "text": "OOC söylem / Ninja Jackıng"
+        },
+        {
+          "id": 2,
+          "text": "Ninja Jackıng / Combat Log"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming / OOC söylem"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 51,
+      "type": "single-line",
+      "question": "Arkadaşlarınla beraber iskelede sohbet etmektesin. Bir gün öncede yüzün açık bir şekilde hasımın olan kişi vurdun ve yanına ''Yaptıklarının yanına kalacağını mı sandın'' yazılı bir not bıraktın. Bir daha böyle bir şeyi tekrarlamayacağında eminsin. Her şey normalken bir anda bir gün önce vurmuş olduğun hasımın siyah renkli bir araçla gelerek sana ateş açmaya başladı. Yanında olan bir kaç kişi ve sen vurulduktan sonra bağırarak'' Bu iş daha burada bitmedi !!'' dedi ve bulunduğunuz bölgeden hızlıca uzaklaştı. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata yok"
+        },
+        {
+          "id": 1,
+          "text": "Revenge Kill"
+        },
+        {
+          "id": 2,
+          "text": "Ninja Jackıng"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 52,
+      "type": "single-line",
+      "question": "Çok paraya ihtiyacınız var ve para için her şeyi yapacak durumdasınız, derin derin düşünürken bir arkadaşınız geldi ve size bir plan anlattı. Öncelikle 911'i arayacaksınız ve yanlış bir ihbar vererek polisleri tuzağa düşüreceksiniz, polisleri etkisiz hale getirdikten sonra tüm ekipmanlarını ve paralarını çalacaksınız. Plan günü geldi çattı, polisleri pusuya düşürdünüz ve etkisiz hale getirip tüm ekipmanlarını ve paralarını çaldınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Retarted RP / Non-RP"
+        },
+        {
+          "id": 1,
+          "text": "Fail RP / Non-RP"
+        },
+        {
+          "id": 2,
+          "text": "Ninja Jackıng / Retarted RP"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming / Non-RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 53,
+      "type": "single-line",
+      "question": "Aracınız ile dolaşmaktasınız ve şehirde oldukça yenisiniz. Karakterinizin kişiliği oldukça meraklı ve macera arayan bir karakter. Şehirden uzakta ücra bir sokağa girdiniz, aracınızı park edip sokaklarda dolaşmaya başladınız. Sokaklar o kadar sessiz ki dün yağmış olan yağmurdan akan suların çatıdan damlayan sus seslerini dahi duyabiliyorsunuz. Bir anda arka tarafınızdan yüksek bir sesle ''Hey kimsin sen !?'' diye bir ses duydunuz. Arkanıza dönüp baktığınızda ellerinde sopa ve bıçakla bekleyen kalabalık bir grup gördünüz. O anın heyecanıyla bir anda aracınıza koşmaya başladınız. Attığınız her adımda kalbinizin ritmi hızlanmakta ve daha hızlı koşmaya başlıyorsunuz. Aracınıza tam bindiğiniz anda kalabalık grup yerden aldığı taşları aracınıza doğru atmaya başlıyor ve son gazla bölgeden uzaklaşıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "RDM"
+        },
+        {
+          "id": 2,
+          "text": "Retarted RP"
+        },
+        {
+          "id": 3,
+          "text": "Power Gaming"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 54,
+      "type": "single-line",
+      "question": "Rol içerisinde bir arkadaşınızla sohbet ediyorsunuz. Aşağı yukarı 8-9 metre ilerinizde başka bir grubun konuştuğunu duyuyorsunuz. Sistemsel olarak bu kişilerin sesi size geliyor fakat her biri fısıldaşmakta. Yani gerçek sesleriyle fısıldaşıyorlar ve sizin hakkınızda dedikodu yapıyorlar. Siz bu durumdan rahatsız olup hakkınızda konuşan kişilerin yanına giderek ''Bir şey söylemek istiyorsanız yüzüme karşı söyleyin'' dediniz. Onlarda durumu itiraz ederek sizin hakkınızda konuşmadıklarını ifade ediyorlar.(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fail RP"
+        },
+        {
+          "id": 1,
+          "text": "Mixing"
+        },
+        {
+          "id": 2,
+          "text": "Retarted RP"
+        },
+        {
+          "id": 3,
+          "text": "VDM"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 55,
+      "type": "single-line",
+      "question": "UTC olarak öğle saatlerindesiniz ve sunucudaki tek doktor sizsiniz. Pek rol yapacağınız kişide bulunmamakta ve bir yerden sonra canınız sıkılmaya başlıyor. Bir diğer oynadığınız karakter illegal ağırlıklı ve çoğu arkadaş ortamınızı o karakter üzerinden edinmiş bulunmaktasınız. Discord üzerinden illegal karakteri olan arkadaşınız ''Hadi doktor karakterinden çık da illegale geç soygun yapıcaz. Planda kolay ufak bir yerden atlayıp kaçıcaz'' dedi. Sizde o anın sıkıntıyla kabul ettiniz ve illegal karakterinize geçip soyguna başladınız. Soygun tam olarak istediğiniz gibi ilerledi ve başarılı olarak bölgeden ayrıldınız(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta"
+        },
+        {
+          "id": 1,
+          "text": "Mixing"
+        },
+        {
+          "id": 2,
+          "text": "Non-RP"
+        },
+        {
+          "id": 3,
+          "text": "VDM"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 56,
+      "type": "single-line",
+      "question": "Önceden hasım olduğunuz bir karakter var ve karakterin yönetim olarak CK kararı verilmiş. Bu CK talebini yönetim kendisi yapmak yerine oyunculara vermek istiyor ve kişinin başına da 100.000$ para ödülü koyulmuş durumda. Siz saatlerce süren aramanın ardından kişiyi kasaba tarafında yakaladınız ve ormanın derinliklerine doğru götürüyorsunuz. Ormana geldiğinizde kişiyi araçtan indirip diz üstüne çökmesini istiyorsunuz. Kişi arkası size doğru dönük bir şekilde ve silahınızı başına doğru tutuyorsunuz. Sizin tehditlerinize rağmen diz çökmeyi reddediyor. Siz ne kadar bağırarak isteğinizi iletseniz de hiç bir şekilde uygulamamaya devam ediyor. Siz daha çok sinirlendikçe silahı kafasına iyice yakınlaştırıyorsunuz. Karakter silahın yakınlığından istifade ederek /me Arkasına hızlı bir şekilde dönerek silahı aniden elinden alır emote kullandı. Siz o anda sinirlenerek emote karşılık vermeden kafasına doğru ateş ederek bulunduğunuz bölgeden hızlıca uzaklaştınız. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Force RP / Fear RP "
+        },
+        {
+          "id": 1,
+          "text": "Fear RP / Power Gaming"
+        },
+        {
+          "id": 2,
+          "text": "Power Gaming / NVL"
+        },
+        {
+          "id": 3,
+          "text": "NVL / Force RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 57,
+      "type": "single-line",
+      "question": "Aracınız ile dolaşmaktasınız son hızla motel önünden geçtikten sonra hastane yoluna doğru devam etmektesiniz. Aşağıya doğru hızlı bir şekilde devam ederken aniden karşıdan karşıya geçen bir oyuncuyu ezdiniz ve kişi sistemsel olarak öldü. Siz olayın şokunu atlatır atlatmaz kişini yanına doğru koştunuz. Yerde yatan kişiye doğru’’/me Kişinin durumu nedir ?’’ emote kullandınız. Yerde yatan oyuncu ''/me Öyle arabamı kullanılır'' dedi. Siz vakit kaybetmeden EMS birimlerine ve haber ettiniz ve kişiye ilk yardım tedavisi uyguladıktan sonra hastaneye kaldırdılar. Sizde hastaneye giderek tedavi ücretlerini ödedikten sonra kişiden özür dilediniz ve bölgeden ayrıldınız(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hatalı Emote / OOC tutum"
+        },
+        {
+          "id": 1,
+          "text": "OOC tutum / Power Gaming"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP / OOC tutum"
+        },
+        {
+          "id": 3,
+          "text": "NVL / Force RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 58,
+      "type": "single-line",
+      "question": "Sunucuda düzenlenen bir koşu etkinliği mevcut ve sizde karakterinizin hikâyesine dayanarak kazanacağınızdan eminsiniz. Günler yaptığınız antrenmanların sonrasında yarış günü gelip çatar. Başlangıç çizgisine geçtiğinizde çevrenize bakıyorsunuz ve yarışacak olacak kişilerin kaybedeceğine kesin olarak eminsiniz. Yarış başlar ve tamda sizin tahmin ettiğiniz üzere en önde gitmektesiniz. Yarışın bitmesine 250m kala arkanıza sadece bir kişi olduğunu görüyorsunuz. Fakat kişi nedenini anlamadığınız bir şekilde zıplayarak geliyor ve art arda onu hızlandırabilecek olan bir içeceği içmekte. Siz durumu anlamadan son 10m kala sizi geçiyor ve yarışı kaybediyorsunuz. Nasıl kaybettiğinizi anlamadan kişiye nasıl kazandığınızı soruyorsunuz ve size ''Bizimde bir bildiğimiz var sen rahat ol'' diyor ve üzgün bir şekilde yarış yerinden ayılıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Bunny Hopping / Bug Abuse"
+        },
+        {
+          "id": 1,
+          "text": "OOC tutum / Non-RP"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP / Bunny Hopping"
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse / Force RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 59,
+      "type": "single-line",
+      "question": "Market soygunu yapmak için yakın bir arkadaşınızla anlaştınız. Plan hazır belli bir yerden sonra araçtan ineceksiniz ve iki araç olarak kaçmaya başlayacaksınız. Maymuncuğunuz ve silahınızda mevcut durumda. Rehine aramak için dolaştığınız esnada kıyafet dükkânının yakınlarında yayan olarak dolaşan birini gördünüz. Aracınız ile kişiye yaklaştıktan sonra arkadaşınız araçtan hızlı bir şekilde iniyor. Arkadaşınız araçtan iner inmez /do Belinde Uzi'yi çıkartır emote kullandı ve kişiye doğru silahını doğrulttu. Kişi durumun heyecanıyla ellerini kaldırdı ve sizin her istediğinizi yapacağını söyledi. Soyacağınız markete doğru ilerlediniz ve soyguna başladınız. Siz soygunu yaparken arkadaşınız polisle konuşmaya başladı. Arkadaşınızla polis arasında bir gerginlik başladı ve arkadaşınız silahı ile rehineye ateş açmaya başladı. Polis hızlı bir şekilde karşılık vererek sizi ve arkadaşınızı vurdu. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hatalı Emote / Guns Out Of Ass"
+        },
+        {
+          "id": 1,
+          "text": "OOC tutum / Guns Out Of Ass"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP / Hatalı Emote"
+        },
+        {
+          "id": 3,
+          "text": "NVL / Force RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 60,
+      "type": "single-line",
+      "question": "Sabah uyandınız ve sunucuda kimsenin olmadığı bir saatte mesleklerden birini yapıp para kazanmak istiyorsunuz. Bir kaç hafta sonrada uzun zamandır istediğiniz arabayı alabiliyorsunuz. Mesleğinize başladınız her şey normal olarak ilerlemekte ve alacağınız aracın hayallerini kuruyorsunuz. İstenilen şeyleri yaptıktan sonra paranızı almak için NPC'nin yanına gidiyorsunuz. Gerekli menü açıldıktan sonra ''PARANI AL'' seçeneğine bir kaç defa hızlı bir şekilde bastıktan sonra almanız gereken miktarın 3 katını aldığınızı görüyorsunuz. Durum size tuhaf gelse de ne yapacağınızı bilmeden ‘’/do Uzatılan parayı sayar’’ emote kullanarak gelmiş olan miktarı tekrardan kontrol ediyorsunuz. Paranın fazladan geldiğini anlayıp gelen fazladan miktarı kimsenin alamayacağı bir yere bırakıp bulunduğunuz yerden uzaklaşıyorsunuz.(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hatalı Emote"
+        },
+        {
+          "id": 1,
+          "text": "Non-RP"
+        },
+        {
+          "id": 2,
+          "text": "Fail RP "
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse "
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 61,
+      "type": "single-line",
+      "question": "Bir gün tekrardan güzel bir güne uyandın ve sabah rutinini yaptıktan sonra dışarı çıktın ve arabana bindin. Birkaç km yol gittikten sonra dikiz aynasında gözüne bir ışık çarptı. Kafanı kaldırıp baktığında ise polis tarafından ‘’Aracınızı sağa çekin ve motorunuzu kapatın‘’ ikazını duydunuz. Aracınızı uygun bir yerde sağa çektiniz ve motoru kapattınız. Polis yanınıza geldiğinde isminizi, gününüzün nasıl geçtiğini vs. gibi sorular sorduktan sonra sizden ehliyet ve ruhsat istedi. Ehliyet ve ruhsatı polise uzattınız ve polis gerekli kontrolleri (Araç plaka sorgusu vs.)yaptıktan sonra size iyi günler diledi ve gitti. Bu olayın üstünden 1 hafta gibi bir süre geçti ve aracınız çalınmıştı. Sizin aracınız ile soygun yapıldığını aynı polisten öğrendiniz. Polis soygunculardan bir kişinin sizin olduğunuzu düşünerek gözaltına aldı. Sorgu odasındasınız ve kapıdan dışarısını rolsel olarak duyamıyorsunuz, ancak sistemsel olarak gayet duymanız mümkün. Polislerin konuşmasında ise şöyle bir konuşma geçiyor. ‘’Biz buna suçlu olmasa bile ceza yazalım parayı da kendimize alalım, nede olsa kendini kanıtlayamaz‘’ gibi bir diyalog geçiyor. Bunun üzerine polis sizin sorgu odanıza girdiği gibi siz ‘’Konuştuklarınızı duydum! Bana bilerek ceza kesemezsiniz, sizi devlete şikâyet edicem! Böyle polislik mi yapılır?‘’ tarzında cümleler kuruyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Fail RP"
+        },
+        {
+          "id": 1,
+          "text": "Non-RP"
+        },
+        {
+          "id": 2,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 3,
+          "text": "NVL"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 62,
+      "type": "single-line",
+      "question": "Yolda yürümektesiniz ve kulaklığınızda en sevdiğiniz müzik çalmakta. Hava tam yürüyüş yapabileceğiniz durumda ve her adım attığınızda hayattan daha fazla keyif almaya başlıyorsunuz. Müziğin seside o kadar açık ki etrafta olan siren seslerini dahi duymuyorsunuz. Kaldırımda keyif bir şekilde yürümeye devam ettiğiniz anda karşı kaldırımda en yakın arkadaşınızın olduğunu fark ettiniz ve arkası size dönük bir biçimde yürümekte. Sağınıza solunuza bakmadan hızlı bir adımla kendinizi yola atıyorsunuz ve o anda polislerden kaçan araç size hızlı bir şekilde çarpıp yoluna devam ediyor. Çarpmanın etkisiyle geriye doğru 5m savruldunuz ve sistemsel olarak hala hayattasınız. Etrafınıza baktığınızda herhangi bir oyuncu olmadığını anlıyor ve ayağa kalkıp arkadaşınıza doğru yürümeye başlıyorsunuz. Arkadaşınız sessiz bir şekilde yaklaşıp ona sürpriz yaptıktan sonra yürümenize devam ediyorsunuz.(Burada bir rol hatası var mıdır, varsa nelerdir?) ",
+      "options": [
+        {
+          "id": 0,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 1,
+          "text": "Non-RP"
+        },
+        {
+          "id": 2,
+          "text": "NVL"
+        },
+        {
+          "id": 3,
+          "text": "Ninja Jacking"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 63,
+      "type": "single-line",
+      "question": "Discord üzerinden arkadaşlarınla sohbet ediyorsun ve sohbet sunucuda bir kaç kişinin bildiği yer üzerinden konuşulmakta. Bilen kişi sohbet arasında yanlışlıkla ağzından kaçırıyor ve bunu sadece siz duyuyorsunuz. Oyuna girdiğinizde söyleyen kişinin karakterine yer hakkında sorular sorup ‘’Hadi  sen biliyorsun kandırma beni, söylersen karşılığını vereceğim‘’ gibi sözler söyleyip IC'de yerini öğrenmeye çalışıyorsunuz. Fakat oyuncu yer hakkında bir şey bilmediğini ve ne demek istediğinizi anlamadığını söylüyor. Sizde onu konuşturmak için oyuncuyu kaçırıp yeri öğreniyorsunuz. Ardından konuma gidip istediğiniz eşyalara sahip oluyorsunuz.(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Meta / Force RP"
+        },
+        {
+          "id": 1,
+          "text": "Force RP / Mixing"
+        },
+        {
+          "id": 2,
+          "text": "Meta / Non-RP"
+        },
+        {
+          "id": 3,
+          "text": "Bug Abuse / RDM"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 64,
+      "type": "single-line",
+      "question": "Motel önünde arkadaşların ile birlikte sohbet etmektesiniz. Konu araçlardan açılmış ve sizde pek bilgili olmadığınızdan konudan uzak bir şekilde kişileri dinlemektesiniz. Her şey düzgün bir şekilde ilerlemekteyken gözünüze ufuktan gelen hızlı bir şekilde kornaya basarak gelen bir aracı fark ettiniz. Araç giderek hızlanmakta ve hem farlarını açıp kapıyor hem de kornaya basmakta. Siz tam arkadaşlarınıza söylediğiniz anda yoldan çekiyorsunuz fakat karşı kaldırımdan aracı görmeyen bir kişi koşarak karşıdan karşıya geçmeye çalışırken aracın çarpmasıyla beraber bir kaç metre ileriye sürükleniyor. Çarpan araç daha fazla gitmemek içinde bir duvara çapıp duruyor. Yerde yatan kişiyi ve şoförü EMS birimleri hızlı bir şekilde alıp hastaneye kaldırıyorlar.(Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yok"
+        },
+        {
+          "id": 1,
+          "text": "VDM"
+        },
+        {
+          "id": 2,
+          "text": "RDM"
+        },
+        {
+          "id": 3,
+          "text": "Ninja Jacking"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 65,
+      "type": "single-line",
+      "question": "Cam kesme mesleği yapıyorsunuz ve camlar oldukça keskin ve kırılgan. Seninle beraber cam kesme işi yapan kişi sizle tanışmak için yaklaşıyor ve sohbete başlıyorsunuz. Sohbetin devamında yanınızdaki kişi size doğru /do Kişinin elindeki camlar kırılmıştır emote kullandı. Siz pek anlamadan rolü bloklamamak için tepkinizi ona göre veriyorsunuz. Camları kırdığınız için paraya almaya gittiğinizde rolsel açıdan yanlış olduğunu düşündüğünüz için parayı almıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "Force Rp"
+        },
+        {
+          "id": 1,
+          "text": "Fail RP"
+        },
+        {
+          "id": 2,
+          "text": "Bug Abuse"
+        },
+        {
+          "id": 3,
+          "text": "Ninja Jacking"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 66,
+      "type": "single-line",
+      "question": "Çok paraya ihtiyacınız var. Bir gün bir dağ gezisine katılıyorsunuz. Dağın en üstüne çıktınız ve sohbet muhabbet içinde insanlar ile konuşuyorsunuz. Çoğu insanın bu sırada alkol aldığını da görüyorsunuz. Bir süre sonra herkesin kafa bir milyon oluyor. Bazı kişilerin paraşüt ile dağdan aşağıya atladığını görüyorsunuz. Kafası güzel bir kişi size bir çanta uzatıyor ve içinde paraşüt olduğunu söylüyor. Eğer aşağıya atlarsanız size 10.000$ dolar vereceğini söylüyor. Maddi durumunuz kötü olduğu için de çantayı alıp hiç düşünmeden atlıyorsunuz. (Burada bir rol hatası var mıdır, varsa nelerdir?)",
+      "options": [
+        {
+          "id": 0,
+          "text": "NVL"
+        },
+        {
+          "id": 1,
+          "text": "Power Gaming"
+        },
+        {
+          "id": 2,
+          "text": "Non-RP"
+        },
+        {
+          "id": 3,
+          "text": "Fail RP"
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN2"
+    },
+    {
+      "id": 67,
+      "type": "multi-line",
+      "question": [
+        "Beş arkadaş motel önünde sohbet etmeye başlamışlardır.",
+        "/me sağ eliyle arka cebinden sigara paketini çıkartır ve bir dal sigara alarak yakar.",
+        "/do elinde sigara vardır.",
+        "Sohbet ilerler, eski anıları anmaya başlarlar ve kişinin bir kaza sonucu yaralandığı günü konuşmaya başlarlar.",
+        "/do kişinin yüzünde acı çeker bir ifade vardır.",
+        "/me elindeki sigarayı yere atar ve ayağıyla ezer.",
+        "Daha sonra ortamdaki bir arkadaşı yüzündeki ifadeyi fark eder ve arkadaşına sarılarak, atlattın o günleri artık hep birlikteyiz der.",
+        "/do gözleri dolmuştur.",
+        "Arkadaşlarından biri gözlerinin dolduğunu görür ve peçete uzatır.",
+        "/me uzatılan peçeteyi alır ve gözyaşlarını siler.",
+        "/do kişinin yüzünde mutlu bir ifade vardır.",
+        "Yukarda bulunan hikâyede kaç adet emote hatası vardır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç Hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "1 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 68,
+      "type": "multi-line",
+      "question": [
+        "Motel önünde bir arkadaşa grubu sohbet etmekte",
+        "(X)",
+        "/me Sağ cebinden bir adet çeyrekliği çıkartır.",
+        "/me Çeyrekliği eline alır ve havaya atıp tutar",
+        "/do Çeyrekliği elinde hareket ettirdiği görülebilir",
+        "Yanında bulunanan arkadaşları çeyreklikiği nasıl böyle hareket ettirdiğini sorarlar.",
+        "Y isimli arkadaşı çeyrekliği X den ister.",
+        "(X)",
+        "/me Elindeki çeyrekliği hızlıca Y ye doğru atar",
+        "/do Çeyreklik yere düştü",
+        "(Y)",
+        "/me Çeyrekliği yerden alır ve üstünde bulunan tozları siler.",
+        "/me Çeyrekliği elinde çevirmeye çalışır.",
+        "/do Çeyreklik yere düştü",
+        "/me Çeyrekliği yerden alır ve X'e doğru atar.",
+        "Yukarda bulunan hikayede kaç adet emote hatası vardır varsa kaç tane ?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "1 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 69,
+      "type": "multi-line",
+      "question": [
+        "Sahilde arkadaşların ile sohbet etmektesin ve balık tutuyorsunuz",
+        "/me Oltasını çantasından çıkartır ve denize doğru fırlatır.",
+        "/me Kovasını direğin yakınına koyar.",
+        "Sohbet devam ettiği esnada oltanız elinizden kaydını arkadaşlarına belli etmek istiyorsun ve",
+        "/do Olta kişini elinde kaydığı görülebilir.",
+        "/me Oltayı yere bırakır ve iskeleye yaslar.",
+        "Oltanızı sabitlemenizden sonra olta suya doğru kaymaya başladı.",
+        "/do Olta yavaşça suya doğru düştü",
+        "Yukarda bulunan hikayede kaç adet emote hatası vardır varsa kaç tane ?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 70,
+      "type": "multi-line",
+      "question": [
+        "/me Yerde duran bozuk parayı alır ve inceler.",
+        "/me Elindeki silahı karşında duran kişi uzatır.",
+        "/do Arkasındaki kişiyi gösterdiği görülebilir.",
+        "/me Yüzündeki yaralar görülebilir.",
+        "/do Cebinden çıkardığı sigara paketini elinde tuttuğu anlaşılabilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 71,
+      "type": "multi-line",
+      "question": [
+        "/me Havaya elli metre zıplar ve takla atarak yere iner.",
+        "/do Sol elinde kalem bulunmaktadır.",
+        "/me Sağ elini arka beline uzatır ve teçhizat kemerinden job'unu çıkarır.",
+        "/me Yatağa yavaşça uzanır.",
+        "/do Sağ eli ile masadaki kalemi kavrar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 72,
+      "type": "multi-line",
+      "question": [
+        "/me Karşısındaki adama sağ eli ile yumruk atar.",
+        "/me Sağ yanağında kızarıklık var, dudağından kan geliyor.",
+        "/me Buzdolabının kapağını açar.",
+        "/me Saçları dağınıktır ve üzeri ıslaktır.",
+        "/me Kapı açıktır.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 73,
+      "type": "multi-line",
+      "question": [
+        "/do Kolunda bir adet ve göğsünde bir adet kurşun yarası bulunmaktadır.",
+        "/do Kişinin üstünde ne görmekteyim?",
+        "/do Telefon, Pistol, yemek ve su bulunmaktadır.",
+        "/me Sağ elini arka beline uzatır ve tabancasını çeker.",
+        "/me Sağ eli ile masadaki bardağı alır.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 74,
+      "type": "multi-line",
+      "question": [
+        "/me Sol eli ile çenesini sıvazlar",
+        "/me Elindeki zarfı Ahmet'e uzatır",
+        "/me Elini uzatır ve zarfı alır.",
+        "/me Zar sağ elinde ve sıkıyor.",
+        "/me Zarfı sağ cebine koyar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 75,
+      "type": "multi-line",
+      "question": [
+        "/me Arka cebindeki cüzdanı kontrol eder.",
+        "/me Şemsiyesini çantasından çıkarır ve açar.",
+        "/do Sol elinde bir taş vardır",
+        "/do Şemsiyesi kişiyi yağmurdan korumaktadır.",
+        "/do Gözlerinin yaşardığı görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 76,
+      "type": "multi-line",
+      "question": [
+        "/do Kişinin yüzünde mutlu bir ifade vardır.",
+        "/me Çeyrekliği eline alır ve havaya atıp tutar.",
+        "/me Çeyreklik yere düştü",
+        "/do Elindeki sigarayı yere atar ve ayağıyla ezer.",
+        "/me Elinde sigara vardır.",
+        "Yukarda bulunan metinde emote hatası varmıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 77,
+      "type": "multi-line",
+      "question": [
+        "/do Buzdolabının kapağını açar.",
+        "/do Elini uzatır ve zarfı alır.",
+        "/me Gözlerinin yaşardığı görülebilir.",
+        "/do Sağ elini arka beline uzatır ve tabancasını çeker.",
+        "/me Oltayı yere bırakır ve iskeleye yaslar.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 78,
+      "type": "multi-line",
+      "question": [
+        "/me Sağ elini sağ cebine sokarak arabanın anahtarını çıkartır.",
+        "/me Sol elini başının sağ tarafına baskı yapar.",
+        "/me Hastaya damar yolu açmak için iğneyi damara sokar.",
+        "/me Elini masaya vurur.",
+        "/me Gözlerini kısar ve karşıya bakar.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 79,
+      "type": "multi-line",
+      "question": [
+        "/me Elini cebine götürür ve cebinden paralarını çıkarıp sayar, saydıktan sonra karşısındaki kişiye parayı uzatır",
+        "/do Masanın üzerinden bardağı alır ve içerisine su doldurur",
+        "/me Kitapları alır ve düzgün şekilde çantasına yerleştirir",
+        "/do Çantasını sırtına takar",
+        "/me Çantasını önüne doğru çeker ve içerisinden hamburger alıp yemeye başlar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 80,
+      "type": "multi-line",
+      "question": [
+        "/do Yanındaki kişinin sırtını sıvazlar",
+        "/do Kişinin gergin olduğu anlaşılabilir.",
+        "/me Kişinin utangaç olduğu fark edilebilir.",
+        "/me Aracın lastiği patladığı görülebilir.",
+        "/do Kişinin belindeki kabarıklık belli olabilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 81,
+      "type": "multi-line",
+      "question": [
+        "/me Çantasını sırtına takar",
+        "/me Çantasını önüne doğru çeker ve içerisinden hamburger alıp yemeye başlar",
+        "/me Elindeki odun parçasını ileriye doğru fırlatır",
+        "/me Yanındaki kişinin sırtını sıvazlar",
+        "/do Kişinin gergin olduğu anlaşılabilir",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 82,
+      "type": "multi-line",
+      "question": [
+        "/me Adamın cebinden telefonu alır.",
+        "/me Yanağına sertçe yumruk atar",
+        "/me Çantasını koltuğa bırakır",
+        "/me Kişinin yakasından tutup kendine doğru çeker",
+        "/do Ceketi alır ve beline bağlar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 83,
+      "type": "multi-line",
+      "question": [
+        "/me Not defterini katlayıp iç cebine koyar.",
+        "/me Dolaptan bir adet bira alır.",
+        "/do Kişiye parasını uzatır.",
+        "/do Köşede duran tabureyi alır ve önüne koyar.",
+        "/me Yanağının kızardığı görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 84,
+      "type": "multi-line",
+      "question": [
+        "/me Anahtarı cebinden çıkartır ve kilidi açar.",
+        "/me Soluna döner ve kişiye bakar",
+        "/me Arkasına baktıktan sonra tekrar önüne döner",
+        "/do Göz ucuyla kişiye bakar",
+        "/do Bardağı masaya geri koyar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 85,
+      "type": "multi-line",
+      "question": [
+        "/me Faturayı keser ve kişiye uzatır",
+        "/do Faturayı alır ve cebine koyar",
+        "/me Parayı kasiyere uzatır ve poşeti alır",
+        "/me Sağ cebinden notu çıkarır",
+        "/me Kâğıdı elinde buruşturur ve atar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 86,
+      "type": "multi-line",
+      "question": [
+        "/do Sağ ve sol kolunda bandaj sarılı durumdadır.",
+        "/me Yüzünde yara izleri olduğu görülebilir.",
+        "/do Bira şişesini duvara doğru fırlatır.",
+        "/do Şişenin parçalandığı görülebilir.",
+        "/me Gözlüğü yerden hızlıca alır ve takar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 87,
+      "type": "multi-line",
+      "question": [
+        "/me Belindeki silah görülebilir durumda.",
+        "/do Gözlerinin kızarıklığı belli olmaktadır. ",
+        "/me Uzatılan parayı alır.",
+        "/me Aracın üzerindeki çizikler net olarak görülmektedir.",
+        "/do Araç kullanılabilir halde midir? ",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 88,
+      "type": "multi-line",
+      "question": [
+        "/me Dolaptan bir adet bira alır.",
+        "/do Kişiye parasını uzatır.",
+        "/do Bira şişesini duvara doğru fırlatır.",
+        "/do Şişenin parçalandığı görülebilir.",
+        "/do Aracın üzerindeki çizikler net olarak görülmektedir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": " 2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 89,
+      "type": "multi-line",
+      "question": [
+        "/me Cebinden telefonu alır.",
+        "/me Yanağına sertçe yumruk atar",
+        "/me Çantasını koltuğa bırakır",
+        "/me Kişinin yakasından tutup kendine doğru çeker",
+        "/do Araç kullanılabilir halde midir?",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 90,
+      "type": "multi-line",
+      "question": [
+        "/me Kişinin gergin olduğu anlaşılabilir.",
+        "/me Kişinin utangaç olduğu fark edilebilir.",
+        "/me Aracın lastiği patladığı görülebilir.",
+        "/me Elindeki odun parçasını ileriye doğru fırlatır",
+        "/me Yanındaki kişinin sırtını sıvazlar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur"
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 91,
+      "type": "multi-line",
+      "question": [
+        "/do Çeyreklik yere düştü",
+        "/me Elindeki sigarayı yere atar ve ayağıyla ezer.",
+        "/me Sağ elini  cebine sokarak arabanın anahtarını çıkartır.",
+        "/me Sol elini başının sağ tarafına baskı yapar.",
+        "/me Hastaya damar yolu açmak için iğneyi damara sokar.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "Hata yoktur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 2,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 92,
+      "type": "multi-line",
+      "question": [
+        "/do Sol eliyle sağ kolunu tuttuğu görülebilir.",
+        "/me Bardağı masaya geri koyar",
+        "/me Faturayı keser ve kişiye uzatır",
+        "/me Faturayı alır ve cebine koyar",
+        "/me Parayı kasiyere uzatır ve poşeti alır",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hata Yoktur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 93,
+      "type": "multi-line",
+      "question": [
+        "/me Aracın camını sağ elindeki taşlar kırar.",
+        "/do Camların kırıldığı görülebilir",
+        "/me Aracın kapısını açar.",
+        "/me Koltuktaki cam parçalarını eliyle temizler.",
+        "/do Elindeki cam kesikleri görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 94,
+      "type": "multi-line",
+      "question": [
+        "/me Yataktan yavaşça kalkar",
+        "/do Sağ eliyle kafasını tutar",
+        "/do Başındaki şişlik görülebilir.",
+        "/me Sağ ve sol eliyle gözlerini ovalar.",
+        "/me Dizlerinden destek alarak ayağa kalkar.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 95,
+      "type": "multi-line",
+      "question": [
+        "/do Sağ ayağının topalladığı görülebilir.",
+        "/do Bardağı masaya geri koyar",
+        "/me Uzatılan parayı alır.",
+        "/me Aracın üzerindeki çizikler net olarak görülmektedir.",
+        "/do Araç kullanılabilir halde midir? ",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 96,
+      "type": "multi-line",
+      "question": [
+        "/me çantasını sırtına takar",
+        "/me çantasını önüne doğru çeker ve içerisinden hamburger alıp yemeye başlar",
+        "/me elindeki odun parçasını ileriye doğru fırlatır",
+        "/me yanındaki kişinin sırtını sıvazlar",
+        "/do kişinin gergin olduğu anlaşılabilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 97,
+      "type": "multi-line",
+      "question": [
+        "/do Bilgisayarı açmak için güç tuşuna basar",
+        "/me Klavyenin tuşlarını söker ve hava ile temizler",
+        "/do Tuşları suyun içine koyar ve eliyle temizler",
+        "/me Yavaşça çayı bardağa doldurur. ",
+        "/do Çaydan yükselen buhar görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur. "
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 98,
+      "type": "multi-line",
+      "question": [
+        "/me Hızlı bir hamleyle bardağı alır ve kafasına diker",
+        "/me İğneyi yavaş bir şekilde eline batırır. ",
+        "/do İğne acısını hissetmemesi muhtemel. ",
+        "/me Belinden tabancasını çıkartır ve kişinin kafasına doğrultur. ",
+        "/do Silahı namlusunun kırıldığı görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hata yoktur"
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 99,
+      "type": "multi-line",
+      "question": [
+        "/me Aracın kaputunu açar",
+        "/me Yağ çubuğunu yavaşça çeker",
+        "/do Çubuğun üzerinde yeterince yağ olmadığı görülebilir.",
+        "/do Yağ çubuğu elinde olduğu görülebilir.",
+        "/me Bagajı yavaşça açar ve yağ bidonunu alır.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 100,
+      "type": "multi-line",
+      "question": [
+        "/me Kalemi sağ cebinden alır ve not defterine takar.",
+        "/do Kalemin uç tarafında kan olduğu anlaşılabilir. ",
+        "/do Kişinin durumu nedir? ",
+        "/me Kolundaki cam parçasını yavaşça çeker.",
+        "/me Camın kestiği yeri bandaj ile tampon yapar.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 3,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 101,
+      "type": "multi-line",
+      "question": [
+        "/me çantasını sırtına takar",
+        "/me çantasını önüne doğru çeker ve içerisinden hamburger alıp yemeye başlar",
+        "/me elindeki odun parçasını ileriye doğru fırlatır",
+        "/me yanındaki kişinin sırtını sıvazlar",
+        "/me kişinin gergin olduğu anlaşılabilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 102,
+      "type": "multi-line",
+      "question": [
+        "/me Bilgisayarı açmak için güç tuşuna basar",
+        "/do Klavyenin tuşlarını söker ve hava ile temizler",
+        "/me Tuşları suyun içine koyar ve eliyle temizler",
+        "/do Yavaşça çayı bardağa doldurur.",
+        "/do Çaydan yükselen buhar görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 103,
+      "type": "multi-line",
+      "question": [
+        "/me Hızlı bir hamleyle bardağı alır ve kafasına diker",
+        "/me İğneyi yavaş bir şekilde eline batırır.",
+        "/me İğne acısını hissetmemesi muhtemel.",
+        "/me Belinden tabancasını çıkartır ve kişinin kafasına doğrultur.",
+        "/do Silahı namlusunun kırıldığı görülebilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "Hiç hata yoktur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 104,
+      "type": "multi-line",
+      "question": [
+        "/do Yerde duran bozuk parayı alır.",
+        "/me Elindeki silahı karşında duran kişi verir.",
+        "/do Arkasındaki kişiyi gösterdiği görülebilir.",
+        "/do Yüzündeki yaralar görülebilir.",
+        "/do Cebinden çıkardığı sigara paketini elinde tuttuğu anlaşılabilir.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 105,
+      "type": "multi-line",
+      "question": [
+        "/do Saçları dağınıktır ve üzeri ıslaktır.",
+        "/do Sol elinde kalem bulunmaktadır.",
+        "/me Sağ elini arka beline uzatır ve teçhizat kemerinden job'unu çıkarır.",
+        "/me Yatağa yavaşça uzanır.",
+        "/do Sağ eli ile masadaki kalemi kavrar",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "Hiç hata yoktur."
+        },
+        {
+          "id": 1,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "3 hata mevcuttur."
+        }
+      ],
+      "answerid": 1,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    },
+    {
+      "id": 106,
+      "type": "multi-line",
+      "question": [
+        "/me Karşısındaki adama sağ eli ile yumruk atar.",
+        "/me Sağ yanağında kızarıklık var, dudağından kan geliyor.",
+        "/me Buzdolabının kapağını açar.",
+        "/do Saçları dağınıktır ve üzeri ıslaktır.",
+        "/do Kapı açıktır.",
+        "Yukarda bulunan metinde emote hatası var mıdır varsa kaç tane?"
+      ],
+      "options": [
+        {
+          "id": 0,
+          "text": "1 hata mevcuttur."
+        },
+        {
+          "id": 1,
+          "text": "2 hata mevcuttur."
+        },
+        {
+          "id": 2,
+          "text": "3 hata mevcuttur."
+        },
+        {
+          "id": 3,
+          "text": "4 hata mevcuttur."
+        }
+      ],
+      "answerid": 0,
+      "selected": null,
+      "status": false,
+      "category": "GEN3"
+    }
+  ]
+}
